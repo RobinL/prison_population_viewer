@@ -10,6 +10,7 @@ column_descriptions_data = {
     },
     "population": {
         "long_name": "Population",
+        "format": d3.format(",.0f")
     },
     "perc_pop_to_used_cna": {
         "long_name": "Ratio of population to in use CNA",
