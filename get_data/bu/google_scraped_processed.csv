@@ -1,525 +1,420 @@
-prison_name,data
-Acklington,"HM Prison Acklington was a Category C men's prison, located near the village of Acklington a few miles from Amble), in Northumberland, England. Acklington Prison was operated by Her Majesty's Prison Service. Wikipedia
-
-Address: HMP Northumberland, Morpeth, Northumberland, NE65 9XG
-Hours: Open today · 8am–6pmSaturday8am–6pmSunday8am–6pmMonday8am–6pmTuesday8am–6pmWednesday8am–6pmThursday8am–6pmFriday8am–6pm
-Phone: 01670 762300
-Opened: 1972"
+moj_prison_name,gscraped_desc,gscraped_address,gscraped_opened,gscraped_capacity,gscraped_type,gscraped_cat,gscraped_postcode,gscraped_lat,gscraped_lng
 Altcourse,"HM Prison Altcourse is a Category B men's private prison and Young Offenders Institution in the Fazakerley area of Liverpool in Merseyside, England. The prison is operated by G4S. Wikipedia
 
 Address: Brookfield Dr, Liverpool L9 7LH
 Opened: 1997
 Phone: 0151 522 2000
-Hours: Closed today SaturdayClosedSundayClosedMondayOpen 24 hoursTuesdayOpen 24 hoursWednesdayOpen 24 hoursThursdayOpen 24 hoursFridayOpen 24 hours
-Capacity: 1,324"
+Hours: Open today · Open 24 hoursThursdayOpen 24 hoursFridayOpen 24 hoursSaturdayClosedSundayClosedMondayOpen 24 hoursTuesdayOpen 24 hoursWednesdayOpen 24 hours
+Capacity: 1,324","Brookfield Dr, Liverpool L9 7LH",1997,"1,324","male, yoi",b ,L9 7LH,53.4609267593,-2.93603149372
 Ashfield,"HMP Ashfield is now a Category C adult sex offenders prison.
 HM Prison Ashfield is an adult male sex offenders prison located in the village of Pucklechurch, in Gloucestershire, England. The prison is operated by Serco. Wikipedia
 
 Address: Pucklechurch
 Phone: 0117 303 8000
 Capacity: 400
-Opened: 1999"
-Ashwell,"HM Prison Ashwell was a Category C men's prison located in the parish of Burley, in the county of Rutland, England. Wikipedia
-
-Opened: 1955"
+Opened: 1999",Pucklechurch,1999,400,male,c ,,,
 Askham Grange,"HM Prison Askham Grange is a women's open category prison, located in Askham Richard village in North Yorkshire, England. The prison is run by Her Majesty's Prison Service. Wikipedia
 
 Address: Askham Richard, York YO23 3FT
-Phone: 01904 772000"
+Phone: 01904 772000","Askham Richard, York YO23 3FT",,,female,open,YO23 3FT,53.927080602,-1.18595717538
 Aylesbury,"HM Prison Aylesbury is a Young Offender Institution situated in Aylesbury, Buckinghamshire, England. The prison is located on the north side of the town centre, on Bierton Road. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Bierton Rd, Aylesbury HP20 1EH
 Phone: 01296 444000
-Opened: 1847"
+Opened: 1847","Bierton Rd, Aylesbury HP20 1EH",1847,,yoi,,HP20 1EH,51.8219797857,-0.799881064145
 Bedford,"HMP Bedford is a Category B men's prison, located in the Harpur area of Bedford, Bedfordshire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: St Loyes St, Bedford MK40 1HG
 Phone: 01234 373000
-Opened: 1801"
+Opened: 1801","St Loyes St, Bedford MK40 1HG",1801,,male,b ,MK40 1HG,52.1393214218,-0.470231826015
 Belmarsh,"HM Prison Belmarsh is a Category A men's prison in Thamesmead, south-east London, England. It is run by Her Majesty's Prison Service. Wikipedia
 
 Address: Western Way, London SE28 0EB
 Opened: 1991
 Phone: 020 8331 4400
 Owner: Her Majesty's Prison Service
-Architecture firm: TBV Consult"
+Architecture firm: TBV Consult","Western Way, London SE28 0EB",1991,,male,a ,SE28 0EB,51.496846124,0.0927039036341
 Birmingham,"HM Prison Winson Green is a Category B/C men's prison, located in the Winson Green area of Birmingham, England. The prison was formerly operated by Her Majesty's Prison Service. It is now managed by G4S . Wikipedia
 
 Address: Winson Green Rd, Birmingham B18 4AS
 Opened: 1849
 Phone: 0121 598 8000
-Hours: Open today · 9:30–11:30am, 1:30–4pmSaturday9:30–11:30am, 1:30–4pmSunday10:15–11:30am, 1:30–4pmMonday9–11:30am, 1:30–3:45pmTuesday9–11:30am, 1:30–3:45pm, 6–7pmWednesday9–11:30am, 1:30–3:45pm, 6–7pmThursday9–11:30am, 1:30–3:45pm, 6–7pmFriday9–11:30am, 2–4pm
+Hours: Closed now Thursday9–11:30am, 1:30–3:45pm, 6–7pmFriday9–11:30am, 2–4pmSaturday9:30–11:30am, 1:30–4pmSunday10:15–11:30am, 1:30–4pmMonday9–11:30am, 1:30–3:45pmTuesday9–11:30am, 1:30–3:45pm, 6–7pmWednesday9–11:30am, 1:30–3:45pm, 6–7pm
 Capacity: 1,450
-Architectural style: Victorian architecture"
-Blantyre House,"HM Prison Blantyre House is a Category C/D resettlement prison for men, located on the outskirts of Goudhurst in Kent, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
-
-Address: Goudhurst
-Opened: 1954"
-Blundeston,"HM Prison Blundeston was a Category C men's prison, located in the Village of Blundeston in Suffolk, England. The prison was operated by Her Majesty's Prison Service, and closed in December 2013. Wikipedia
-
-Opened: 1963"
+Architectural style: Victorian architecture","Winson Green Rd, Birmingham B18 4AS",1849,"1,450",male,b/c ,B18 4AS,52.4924891883,-1.93851287891
 Brinsford,"HM Prison Brinsford is a male juveniles' prison and Young Offenders Institution, located in the village of Featherstone, in Staffordshire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: New Rd, Wolverhampton WV10 7PY
 Phone: 01902 533450
-Opened: 1991"
+Opened: 1991","New Rd, Wolverhampton WV10 7PY",1991,,"male, yoi",,WV10 7PY,52.6501415705,-2.11081595747
 Bristol,"HMP Bristol is a Category B men's prison, located in the Horfield area of Bristol. The prison is operated by Her Majesty's Prison Service. Wikipedia
-"
+",,,,male,b ,,,
 Brixton,"HM Prison Brixton is a local men's prison, located in Brixton area of the London Borough of Lambeth, in inner-South London. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Jebb Ave, Brixton, London SW2 5XF
 Opened: 1820
 Phone: 020 8588 6000
-London borough: London Borough of Lambeth"
+London borough: London Borough of Lambeth","Jebb Ave, Brixton, London SW2 5XF",1820,,male,,SW2 5XF,51.4518242062,-0.125494005804
 Bronzefield,"HMP Bronzefield is a Category A adult and young offender female's prison located on the outskirts of Ashford in Surrey, England. Wikipedia
 
 Address: Woodthorpe Rd, Shepperton, Ashford TW15 3JZ
 Phone: 01784 425690
 Capacity: 527
-Opened: 2004"
+Opened: 2004","Woodthorpe Rd, Shepperton, Ashford TW15 3JZ",2004,527,"female, yoi",a ,TW15 3JZ,51.432920949,-0.482850391113
 Buckley Hall,"HM Prison Buckley Hall is a Category C men's prison in the Buckley district of Rochdale in North West England. It is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Buckley Farm Ln, Rochdale OL12 9DP
-Phone: 01706 514300"
+Phone: 01706 514300","Buckley Farm Ln, Rochdale OL12 9DP",,,male,c ,OL12 9DP,53.6349607494,-2.14504953027
 Bullingdon,"HMP Bullingdon is a Category B/C men's prison, in the village of Arncott in Oxfordshire, England. The prison is operated by Her Majesty's Prison Service. Bullingdon Prison is named after Bullingdon, the ancient hundred in Oxfordshire. Wikipedia
 
 Address: Patrick Haugh Rd, Bicester OX25 1PZ
 Phone: 01869 353100
-Opened: 1992"
-Bullwood Hall,"HM Prison Bullwood Hall is a former Category C men's prison and Young Offenders Institution, located in Hockley, Essex, England. The prison was operated by Her Majesty's Prison Service. Wikipedia
-"
+Opened: 1992","Patrick Haugh Rd, Bicester OX25 1PZ",1992,,male,b/c ,OX25 1PZ,51.8484966339,-1.09442297112
 Bure,"Her Majesty's Prison Bure, more commonly known as HM Prison Bure, and often abbreviated to HMP Bure, is a Category C men's prison, located in the parish of Scottow in Norfolk, England. Wikipedia
 
 Address: Jaguar Drive, Badersfield, Norwich, Norfolk NR10 5GB
 Phone: 01603 326000
 Capacity: 624
-Opened: November 30, 2009"
-Canterbury,"HMP Canterbury is a former prison in Canterbury, Kent, England. The prison was operated by Her Majesty's Prison Service. The former prison site was bought by Canterbury Christ Church University in April 2014. Wikipedia
-
-Address: 46 Longport, Canterbury CT1 1PJ
-Phone: 01227 862800
-Opened: 1808"
+Opened: November 30, 2009","Jaguar Drive, Badersfield, Norwich, Norfolk NR10 5GB","November 30, 2009",624,male,c ,NR10 5GB,52.7590101248,1.34700732856
 Cardiff,"HM Prison Cardiff is a Category B men's prison, located in the Adamsdown area of Cardiff, Wales. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Knox Rd, Cardiff, South Glamorgan CF24 0UG
 Opened: 1832
-Phone: 029 2092 3100"
-Castington,"Address: HMP Northumberland, Morpeth, Northumberland, NE65 9XG
-Phone:01670 762300
-Hours: Open today · 8am–6pmSaturday8am–6pmSunday8am–6pmMonday8am–6pmTuesday8am–6pmWednesday8am–6pmThursday8am–6pmFriday8am–6pm
-"
+Phone: 029 2092 3100","Knox Rd, Cardiff, South Glamorgan CF24 0UG",1832,,male,b ,CF24 0UG,51.4808552338,-3.16823693653
 Channings Wood,"HM Prison Channings Wood is a Category C men's prison, located in the village of Denbury in Devon, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
-Opened: July 1974"
+Opened: July 1974",,July 1974,,male,c ,,,
 Chelmsford,"HM Prison Chelmsford is a Category B men's prison and Young Offenders Institution, located in Chelmsford, Essex, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: 200 Springfield Park Hill, Chelmsford CM2 6LQ
 Phone: 01245 552000
-Opened: 1830"
+Opened: 1830","200 Springfield Park Hill, Chelmsford CM2 6LQ",1830,,"male, yoi",b ,CM2 6LQ,51.7367243601,0.484654608606
 Coldingley,"HM Prison Coldingley is a Category C men's prison, located in the village of Bisley, in Surrey, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Shaftesbury Rd, Bisley, Woking, Surrey GU24 9EX
 Phone: 01483 344300
-Opened: 1969"
+Opened: 1969","Shaftesbury Rd, Bisley, Woking, Surrey GU24 9EX",1969,,male,c ,GU24 9EX,51.3219067043,-0.643059597034
 Cookham Wood,"HM Prison Cookham Wood is a male juveniles' prison and Young Offenders Institution in the village of Borstal in Kent, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Sir Evelyn Rd, Rochester ME1 3LU
 Phone: 01634 202500
-Opened: 1978"
+Opened: 1978","Sir Evelyn Rd, Rochester ME1 3LU",1978,,"male, yoi",,ME1 3LU,51.3638495319,0.494162900401
 Dartmoor,"HM Prison Dartmoor is a Category C men's prison, located in Princetown, high on Dartmoor in the English county of Devon. Its high granite walls dominate this area of the moor. Wikipedia
 
 Address: Princetown, Yelverton, Devon PL20 6RR
 Opened: 1809
 Phone: 01822 322000
 Owner: Duchy of Cornwall
-Architect: Daniel Asher Alexander"
+Architect: Daniel Asher Alexander","Princetown, Yelverton, Devon PL20 6RR",1809,,male,c ,PL20 6RR,50.5492149728,-3.99748671478
 Deerbolt,"HM Prison Deerbolt is a male juveniles' prison and Young Offenders Institution located in the Village of Startforth, in County Durham, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Bowes Rd, Barnard Castle DL12 9BG
 Phone: 01833 633200
-Opened: 1973"
+Opened: 1973","Bowes Rd, Barnard Castle DL12 9BG",1973,,"male, yoi",,DL12 9BG,54.5435187431,-1.93719529746
 Doncaster,"HM Prison Doncaster, is a Category B men's private prison, located in the Marshgate area of Doncaster in South Yorkshire, England. The prison is operated by the Serco. Wikipedia
 
 Address: HMP & YOI Doncaster, Marsh Gate, Doncaster DN5 8UX
 Opened: 1994
 Phone: 01302 760870
-Capacity: 1,145"
-Dorchester,"HM Prison Dorchester was a local men's prison, located in Dorchester in Dorset, England. The prison was operated by Her Majesty's Prison Service, and closed in December 2013. Wikipedia
-
-Address: 7 N Square, Dorchester DT1 1JD
-Phone: 01305 714500"
+Capacity: 1,145","HMP & YOI Doncaster, Marsh Gate, Doncaster DN5 8UX",1994,"1,145","male, yoi",b ,DN5 8UX,53.5251780918,-1.14500313122
 Dovegate,"Dovegate Prison is a Category B men's private prison, located near Uttoxeter in Staffordshire, England. The prison is operated by the Serco. Wikipedia
 
 Address: Uttoxeter ST14 8XR
 Phone: 01283 829400
 Capacity: 1,060
-Opened: 2001"
-Dover (IRC),"Dover Immigration Removal Centre was an immigration detention centre, located in the historic citadel of the Western Heights fortifications in Dover, England. Wikipedia
-
-Address: Western Heights, Dover CT17 9DR
-Opened: 1952
-Phone: 01304 246400"
-Downview,"HM Prison Downview is a women's closed category prison. Downview is located on the outskirts of Banstead in Surrey, England, and is immediately adjacent to the southern boundary of Belmont in Greater London. Wikipedia
-
-Address: Sutton Ln, Sutton SM2 5PD
-Phone: 020 8196 6300
-Opened: 1989"
+Opened: 2001",Uttoxeter ST14 8XR,2001,"1,060",male,b ,ST14 8XR,52.8706065222,-1.78224320898
 Drake Hall,"HM Prison Drake Hall is a women's closed prison, located near the village of Eccleshall in Staffordshire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Stafford ST21 6LQ
-Phone: 01785 774100"
+Phone: 01785 774100",Stafford ST21 6LQ,,,female,,ST21 6LQ,52.8788311747,-2.24083476952
 Durham,"HM Prison Durham is a Victorian era local Category B men's prison, located in the Elvet area of Durham in County Durham, England. Built in 1819, the prison continues to be operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Old Elvet, Durham DH1 3HU
-Phone: 0191 332 3400"
+Phone: 0191 332 3400","Old Elvet, Durham DH1 3HU",,,male,b ,DH1 3HU,54.7734504218,-1.56689006666
 East Sutton Park,"HM Prison East Sutton Park is a women's open prison and Young Offenders Institution, located in the village of East Sutton, in Kent, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: HMP/YOI East Sutton Park Sutton Valence Maidstone Kent, Workhouse Rd, Maidstone ME17 3DF
 Phone: 01622 845000
-Opened: 1946"
+Opened: 1946","HMP/YOI East Sutton Park Sutton Valence Maidstone Kent, Workhouse Rd, Maidstone ME17 3DF",1946,,"female, yoi",open,ME17 3DF,51.2151271302,0.61375498675
 Eastwood Park,"HM Prison Eastwood Park is a women's closed category prison, located in the village of Falfield in Gloucestershire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Church Ave, Falfield, Wotton-under-Edge GL12 8DB
-Phone: 01454 382100"
-Edmunds Hill,"HM Prison Highpoint North is a Category C men's prison, located in the village of Stradishall in Suffolk, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
-
-Opened: 2003 (1977)"
+Phone: 01454 382100","Church Ave, Falfield, Wotton-under-Edge GL12 8DB",,,female,,GL12 8DB,51.6344535888,-2.46738345738
 Elmley (Sheppey),"HM Prison Elmley is a local Category B/C men's prison, located close to the village of Eastchurch on the Isle of Sheppey, Kent. The term 'local' means that this prison holds people on remand to the local courts. Wikipedia
 
 Address: Brabazon Rd, Eastchurch, Sheerness ME12 4DZ
 Phone: 01795 802000
 Capacity: 985
-Opened: 1992"
+Opened: 1992","Brabazon Rd, Eastchurch, Sheerness ME12 4DZ",1992,985,male,b/c ,ME12 4DZ,51.3877604182,0.85095976922
 Erlestoke,"HM Prison Erlestoke is a Category C men's prison, located in the village of Erlestoke in Wiltshire, England. Erlestoke is operated by Her Majesty's Prison Service, and is the only prison in Wiltshire. Wikipedia
 
 Address: Erlestoke House, Erlestoke, Devizes SN10 5TU
-Phone: 01380 814250"
-Everthorpe,"Address: 1 Beck Rd, Everthorpe, Brough, North Humberside HU15 1RB
-Phone:01430 273000
-Hours: Open today · 9–11am, 2–4pmSaturday9–11am, 2–4pmSunday9–11am, 2–4pmMonday9am–5pmTuesday9am–5pmWednesday9am–5pmThursday9am–5pmFriday9am–5pm
-"
+Phone: 01380 814250","Erlestoke House, Erlestoke, Devizes SN10 5TU",,,male,c ,SN10 5TU,51.2846618834,-2.04415659614
 Exeter,"HM Prison Exeter is a local men's prison, located in Exeter in the county of Devon, England. The term 'local' means that this prison holds people on remand to the local courts. Exeter Prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: 30 New N Rd, Exeter EX4 4EX
 Opened: 1850
-Phone: 01392 415650"
+Phone: 01392 415650","30 New N Rd, Exeter EX4 4EX",1850,,male,,EX4 4EX,50.7280361277,-3.53220929231
 Featherstone,"Address: Oak Road, Featherstone, West Midlands WV10 7QD
 Phone:01902 799700
-"
+","Oak Road, Featherstone, West Midlands WV10 7QD",,,,,WV10 7QD,52.6457252416,-2.11295447536
 Feltham,"HM Prison Feltham is a prison for male juveniles and Young Offenders Institution, located near the town of Feltham within the London Borough of Hounslow, in west London, England. Feltham Prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Bedfont Rd, Feltham, Middlesex TW13 4ND
 Phone: 020 8844 5000
 Opened: 1910
-London borough: London Borough of Hounslow"
+London borough: London Borough of Hounslow","Bedfont Rd, Feltham, Middlesex TW13 4ND",1910,,"male, yoi",,TW13 4ND,51.4415165494,-0.434082188678
 Ford,"HM Prison Ford is a Category D men's prison, located at Ford, in West Sussex, England, near Arundel and Littlehampton. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Ford Rd, Arundel BN18 0BX
 Phone: 01903 663000
 Capacity: 521
-Opened: 1960"
+Opened: 1960","Ford Rd, Arundel BN18 0BX",1960,521,male,d ,BN18 0BX,50.8162162317,-0.579803735925
 Forest Bank,"HM Prison Forest Bank is a Category B men's private prison, located in the Agecroft area of Pendlebury near Manchester, England. The prison is operated by Sodexo Justice Services. Wikipedia
 
 Address: Forestbank, Swinton, Manchester M27 8FB
 Phone: 0161 925 7000
-Hours: Open today · Open 24 hoursSaturdayOpen 24 hoursSundayOpen 24 hoursMondayOpen 24 hoursTuesdayOpen 24 hoursWednesdayOpen 24 hoursThursdayOpen 24 hoursFridayOpen 24 hours
+Hours: Open today · Open 24 hoursThursdayOpen 24 hoursFridayOpen 24 hoursSaturdayOpen 24 hoursSundayOpen 24 hoursMondayOpen 24 hoursTuesdayOpen 24 hoursWednesdayOpen 24 hours
 Capacity: 1,460
-Opened: January 2000"
+Opened: January 2000","Forestbank, Swinton, Manchester M27 8FB",January 2000,"1,460",male,b ,M27 8FB,53.5214864323,-2.30932417474
 Foston Hall,"HM Prison Foston Hall is a women's closed category prison and Young Offenders Institution, located in the village of Foston in Derbyshire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Foston, Derby DE65 5DN
 Phone: 01283 584300
-Opened: 1997"
+Opened: 1997","Foston, Derby DE65 5DN",1997,,"female, yoi",,DE65 5DN,52.8820967199,-1.72536117786
 Frankland,"HM Prison Frankland is a Category A men's prison located in the village of Brasside in County Durham, England. Frankland is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Brasside, Durham DH1 5YA
 Opened: 1980
-Phone: 0191 376 5000"
+Phone: 0191 376 5000","Brasside, Durham DH1 5YA",1980,,male,a ,DH1 5YA,54.8054046515,-1.55638978107
 Full Sutton,"HM Prison Full Sutton is a Category A and B men's prison in the village of Full Sutton, near Pocklington in the East Riding of Yorkshire, England. Full Sutton is operated by Her Majesty's Prison Service and holds some 600 inmates. Wikipedia
 
 Address: Full Sutton, York YO41 1PS
 Phone: 01759 475100
-Opened: 1987"
+Opened: 1987","Full Sutton, York YO41 1PS",1987,,male,a ,YO41 1PS,53.9856447714,-0.871980000669
 Garth,"HM Prison Garth is a Category B men's prison, located in the village of Ulnes Walton, in Lancashire, England. Garth is operated by Her Majesty's Prison Service, and is situated next to HMP Wymott. Wikipedia
 
 Address: Ulnes Walton La, Leyland PR26 8NE
 Phone: 01772 443300
-Opened: 1988"
+Opened: 1988","Ulnes Walton La, Leyland PR26 8NE",1988,,male,b ,PR26 8NE,53.6806470946,-2.75808956991
 Gartree,"HM Prison Gartree is a Category B men's prison, located in Market Harborough, Leicestershire, England. Gartree is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Gallow Field Rd, Market Harborough LE16 7RP
 Phone: 01858 426600
-Opened: 1965"
+Opened: 1965","Gallow Field Rd, Market Harborough LE16 7RP",1965,,male,b ,LE16 7RP,52.495634808,-0.961495106909
 Glen Parva,"HM Prison Glen Parva is a male juvenile's prison and Young Offenders Institution, located in Glen Parva, Leicestershire, England. Glen Parva is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: 10 Tigers Rd, Wigston LE18 4TN
 Phone: 0116 228 4100
-Opened: 1974"
-Gloucester,"HM Prison Gloucester was a Category B men's prison located in Gloucester, Gloucestershire, England. The prison was operated by Her Majesty's Prison Service and closed in 2013. Wikipedia
+Opened: 1974","10 Tigers Rd, Wigston LE18 4TN",1974,,"male, yoi",,LE18 4TN,52.5833127336,-1.1430291964
+Grendon / Springhill,"HM Prison Spring Hill is a Category D men's prison, located in the village of Grendon Underwood, in Buckinghamshire, England. Wikipedia
 
-Address: 27 Northgate St, Gloucester GL1 2AN
-Hours: Open today · 9am–5:30pmSaturday9am–5:30pmSunday10:30am–4:30pmMonday9am–5:30pmTuesday9am–5:30pmWednesday9am–5:30pmThursday9am–5:30pmFriday9am–5:30pm
-Phone: 01452 503134
-Opened: 1791"
-Grendon,"HM Prison Grendon is a Category B men's prison, located in the village of Grendon Underwood, in Buckinghamshire, England. Wikipedia
-
-Opened: 1962"
-Grendon / Spring Hill,"Address: Grendon, Grendon Underwood, Aylesbury HP18 0TL
-Phone:01296 445000
-"
+Address: Grendon, Grendon Underwood, Aylesbury HP18 0TL
+Phone: 01296 445000
+Opened: 1953","Grendon, Grendon Underwood, Aylesbury HP18 0TL",1953,,male,d ,HP18 0TL,51.8916539681,-1.00954927733
 Guys Marsh,"HM Prison Guys Marsh is a Category C men's prison, located near Shaftesbury, Dorset, England. Guys Marsh is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Guy's Marsh, Shaftesbury SP7 0AH
 Phone: 01747 856400
-Opened: 1960"
-Haslar (IRC),"Address: 2 Dolphin Way, Gosport PO12 2AW
-Phone:023 9260 4000
-"
+Opened: 1960","Guy's Marsh, Shaftesbury SP7 0AH",1960,,male,c ,SP7 0AH,50.9853701661,-2.21982637969
 Hatfield,"HM Prison Hatfield is a Category D men's prison and Young Offenders Institution, located near Hatfield Woodhouse in South Yorkshire, England. Wikipedia
 
 Address: Thorne Rd, Doncaster DN7 6EL
-Phone: 01405 746500"
+Phone: 01405 746500","Thorne Rd, Doncaster DN7 6EL",,,"male, yoi",d ,DN7 6EL,53.5867219328,-0.980701626554
 Haverigg,"HM Prison Haverigg is a Category C men's prison, located in village of Haverigg in Cumbria, England. Haverigg Prison is operated by Her Majesty's Prison Service, and is part of the HMP North Lancashire and Cumbria Estate. Wikipedia
 
 Address: North Ln, Haverigg, Millom LA18 4NA
 Phone: 01229 713000
-Opened: 1967"
+Opened: 1967","North Ln, Haverigg, Millom LA18 4NA",1967,,male,c ,LA18 4NA,54.200673693,-3.31245545486
 Hewell,"HM Prison Hewell is a multiple security category men's prison in the village of Tardebigge in Worcestershire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Hewell Ln, Redditch B97 6QS
 Phone: 01527 785000
-Opened: 2008 (1946)"
+Opened: 2008 (1946)","Hewell Ln, Redditch B97 6QS",2008 (1946),,male,,B97 6QS,52.3247838063,-1.98658877707
 High Down,"HM Prison High Down is a Category B men's local prison. High Down is located on the outskirts of Banstead in Surrey, England, and is immediately adjacent to the southern boundary of Belmont in Greater London. Wikipedia
 
 Address: High Down Ln, Sutton SM2 5PJ
-Phone: 020 7147 6300"
-Highpoint,"HM Prison Highpoint South is a Category C men's prison, located in the village of Stradishall in Suffolk, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
-
-Address: Stradishall, Newmarket CB8 9YG
-Phone: 01440 743100
-Opened: 1975"
+Phone: 020 7147 6300","High Down Ln, Sutton SM2 5PJ",,,male,b ,SM2 5PJ,51.3368405722,-0.188734299497
 Highpoint (North and South),"Address: Stradishall, Newmarket CB8 9YG
 Phone:01440 743100
-"
-Hindley,"HM Prison Hindley is a male prison, located in the village of Bickershaw in Greater Manchester, England. Hindley is operated by Her Majesty's Prison Service. Wikipedia
-
-Address: Gibson St, Bickershaw, Wigan WN2 5TH
-Phone: 01942 663100
-Opened: 1961"
+","Stradishall, Newmarket CB8 9YG",,,,,CB8 9YG,52.1372273774,0.514224483366
+Hindley,,,,,,,,,
 Hollesley Bay,"HM Prison Hollesley Bay, known locally as Hollesley Bay Colony or simply The Colony, is a Category D men's prison and Young Offenders Institution, located in the village of Hollesley, about 8 miles from the town of Woodbridge in Suffolk, England. Wikipedia
 
 Address: Hollesley Bay Colony, Rectory Rd, Hollesley, Woodbridge IP12 3JW
 Phone: 01394 412400
-Opened: 1938"
+Opened: 1938","Hollesley Bay Colony, Rectory Rd, Hollesley, Woodbridge IP12 3JW",1938,,"male, yoi",d ,IP12 3JW,52.0512694616,1.4513407306
 Holloway,"HM Prison Holloway is a closed category prison for adult women and young offenders in Holloway, London, England, operated by Her Majesty's Prison Service. It is the largest women's prison in western Europe. Wikipedia
 
 Address: Parkhurst Rd, London N7 0NU
 Opened: 1852
-Hours: Open today · 9am–3pmSaturday9am–3pmSunday9am–3pmMonday9am–4pmTuesday9am–4pmWednesday9am–4pmThursday9am–4pmFriday9am–4pm
+Hours: Closed now Thursday9am–4pmFriday9am–4pmSaturday9am–3pmSunday9am–3pmMonday9am–4pmTuesday9am–4pmWednesday9am–4pm
 Phone: 020 7979 4400
-London borough: London Borough of Islington"
-Holme House,"HM Prison Holme House is a Category B men's prison, located in Stockton-on-Tees, County Durham, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
-
-Address: Holme House Rd, Stockton-on-Tees TS18 2QU
-Phone: 01642 744000
-Hours: Open today · Open 24 hoursSaturdayOpen 24 hoursSundayOpen 24 hoursMondayOpen 24 hoursTuesdayOpen 24 hoursWednesdayOpen 24 hoursThursdayOpen 24 hoursFridayOpen 24 hours
-Opened: 1992"
+London borough: London Borough of Islington","Parkhurst Rd, London N7 0NU",1852,,"female, yoi",,N7 0NU,51.5540467402,-0.125203686726
+Holme House,,,,,,,,,
 Hull,"HM Prison Hull is a Category B men's local prison located in Kingston upon Hull in the East Riding of Yorkshire, England. The term 'local' means that this prison holds people on remand to the local courts. Wikipedia
 
 Address: Hedon Rd, Hull HU9 5LS
 Opened: 1870
-Phone: 01482 282200"
+Phone: 01482 282200","Hedon Rd, Hull HU9 5LS",1870,,male,b ,HU9 5LS,53.748264012,-0.296775478738
 Humber,"Address: 1 Beck Rd, Everthorpe, Brough, North Humberside HU15 1RB
 Phone:01430 273000
-Hours: Open today · 9–11am, 2–4pmSaturday9–11am, 2–4pmSunday9–11am, 2–4pmMonday9am–5pmTuesday9am–5pmWednesday9am–5pmThursday9am–5pmFriday9am–5pm
-"
+Hours: Closed now Thursday9am–5pmFriday9am–5pmSaturday9–11am, 2–4pmSunday9–11am, 2–4pmMonday9am–5pmTuesday9am–5pmWednesday9am–5pm
+","1 Beck Rd, Everthorpe, Brough, North Humberside HU15 1RB",,,,,HU15 1RB,53.768416744,-0.634524513027
 Huntercombe,"HM Prison Huntercombe is a Category C men's prison, located near Nuffield in Oxfordshire, England. Huntercombe is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Nuffield, Henley-on-Thames RG9 5SB
 Phone: 01491 643100
-Opened: 1946"
+Opened: 1946","Nuffield, Henley-on-Thames RG9 5SB",1946,,male,c ,RG9 5SB,51.5893999889,-1.01824214476
 Isis,"Address: Western Way, London SE28 0EB
 Phone:020 8331 4400
-"
+","Western Way, London SE28 0EB",,,,,SE28 0EB,51.496846124,0.0927039036341
 Isle of Wight,"HMP Isle of Wight is a prison on the Isle of Wight, UK, combining the two island prisons, Albany and Parkhurst. The two former prisons along with Camp Hill were merged in 2009 and each site still retained its old name. Wikipedia
 
 Address: Albany House, Newport PO30 5RS
 Phone: 01983 634000
-Opened: 2009"
+Opened: 2009","Albany House, Newport PO30 5RS",2009,,,,PO30 5RS,50.7119973698,-1.30489618227
 Kennet,"HM Prison Kennet is a Category C men's prison, located in Parkbourn, Maghull, in the Metropolitan Borough of Sefton in Merseyside, England. The prison is operated by Her Majesty's Prison Service. The prison is due to close in 2017. Wikipedia
 
 Address: Parkbourne, Maghull, Liverpool L31 1HX
 Phone: 0151 213 3000
-Opened: 2007"
-Kingston,"HM Prison Kingston is a former Category B/C men's prison, located in the Kingston area of Portsmouth, in Hampshire, England. Prior to closure, the prison was operated by Her Majesty's Prison Service. Wikipedia
-
-Opened: 1877"
+Opened: 2007","Parkbourne, Maghull, Liverpool L31 1HX",2007,,male,c ,L31 1HX,53.5181172265,-2.90603638628
 Kirkham,"HM Prison Kirkham is a Category D men's prison, located southwest of Kirkham in Lancashire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Freckleton Rd, Kirkham PR4 2RN
 Phone: 01772 675400
 Capacity: 630
-Opened: 1962"
+Opened: 1962","Freckleton Rd, Kirkham PR4 2RN",1962,630,male,d ,PR4 2RN,53.7749047025,-2.87320488788
 Kirklevington Grange,"HM Prison Kirklevington Grange is a Category D men's prison,and young offenders institute located in the village of Kirklevington, in North Yorkshire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Kirklevington Grange, Yarm, Cleveland TS15 9PA
 Phone: 01642 792600
-Opened: 1992"
-Lancaster,"HM Prison Lancaster Farms is a category C male prison, located on the outskirts of Lancaster, Lancashire, England. The prison is operated by Her Majesty's Prison Service, and is part of the HMP North Lancashire and Cumbria Estate. Wikipedia
-
-Address: Stone Row Head, Lancaster LA1 3QZ
-Phone: 01524 563450
-Opened: 1993"
+Opened: 1992","Kirklevington Grange, Yarm, Cleveland TS15 9PA",1992,,"male, yoi",d ,TS15 9PA,54.4950191289,-1.33960820921
 Lancaster Farms,"HM Prison Lancaster Farms is a category C male prison, located on the outskirts of Lancaster, Lancashire, England. The prison is operated by Her Majesty's Prison Service, and is part of the HMP North Lancashire and Cumbria Estate. Wikipedia
 
 Address: Stone Row Head, Lancaster LA1 3QZ
 Phone: 01524 563450
-Opened: 1993"
-Latchmere House,"Latchmere House is a building and grounds adjacent to Ham Common in the Ham area of the London Borough of Richmond upon Thames, in south west London, England. Part of the site is also in the Royal Borough of Kingston upon Thames. Wikipedia
-
-Address: Richmond
-Opened: 1948
-Capacity: 207
-Architectural style: Victorian architecture"
+Opened: 1993","Stone Row Head, Lancaster LA1 3QZ",1993,,male,c ,LA1 3QZ,54.0526998053,-2.7720662169
 Leeds,"HM Prison Leeds is a Category B men's prison, located at Gloucester Terrace in the Armley area of Leeds in West Yorkshire, England, which opened in 1847. Wikipedia
 
 Address: 2 Gloucester Terrace, Stanningley Road, Leeds LS12 2TJ
 Opened: 1847
-Phone: 0113 203 2600"
+Phone: 0113 203 2600","2 Gloucester Terrace, Stanningley Road, Leeds LS12 2TJ",1847,,male,b ,LS12 2TJ,53.7957276817,-1.57617017801
 Leicester,"HM Prison Leicester is a local men's prison, located in the Southfields area of Leicester, Leicestershire, England. The term 'local' means that the prison holds people on remand to the local courts, as well as sentenced prisoners. Wikipedia
 
 Address: 116 Welford Rd, Leicester LE2 7AJ
 Opened: 1828
-Phone: 0116 228 3000"
+Phone: 0116 228 3000","116 Welford Rd, Leicester LE2 7AJ",1828,,male,,LE2 7AJ,52.6277011358,-1.13254466721
 Lewes,"HM Prison Lewes is a local men's prison, located in Lewes in East Sussex, England. The term 'local' means that the prison holds people on remand to the local courts, as well as sentenced prisoners. Wikipedia
 
 Address: 1 Brighton Rd, Lewes BN7 1EA
 Phone: 01273 785100
-Opened: 1853"
+Opened: 1853","1 Brighton Rd, Lewes BN7 1EA",1853,,male,,BN7 1EA,50.8728674031,-0.00530273397636
 Leyhill,"HM Prison Leyhill is a Category D men's prison, located in the parish of Tortworth in Gloucestershire, England. Leyhill Prison is operated by Her Majesty's Prison Service. Wikipedia
-"
+",,,,male,d ,,,
 Lincoln,"HM Prison Lincoln is a Category B men's prison, located in Lincoln, Lincolnshire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Lincoln LN2 4BD
 Capacity: 709
-Opened: 1872"
-Lindholme (IRC),"HM Prison Lindholme is a Category C/D men's prison located near Hatfield Woodhouse in the Metropolitan Borough of Doncaster, South Yorkshire, England. Wikipedia
+Opened: 1872",Lincoln LN2 4BD,1872,709,male,b ,LN2 4BD,53.2354514863,-0.51796720624
+Lindholme,"HM Prison Lindholme is a Category C/D men's prison located near Hatfield Woodhouse in the Metropolitan Borough of Doncaster, South Yorkshire, England. Wikipedia
 
 Address: Bawtry Road, Doncaster DN7 6EE
 Opened: 1985
-Phone: 01302 524700"
-Littlehey,"HM Prison Littlehey is a Category C male sex offenders prison in the village of Perry near Huntingdon in Cambridgeshire, England. Littlehey Prison is operated by Her Majesty's Prison Service. Wikipedia
+Phone: 01302 524700","Bawtry Road, Doncaster DN7 6EE",1985,,male,c/d ,DN7 6EE,53.5477972918,-0.964597172829
+Littlehey,"HM Prison Littlehey is a Category C male sex offenders prison, located in the village of Perry in Cambridgeshire, England. Littlehey Prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Perry, Huntingdon PE28 0SR
-Hours: Open today · 7:30am–5:15pmSaturday7:30am–5:15pmSunday7:30am–5:15pmMonday7:30am–7:30pmTuesday7:30am–7:30pmWednesday7:30am–7:30pmThursday7:30am–7:30pmFriday7:30am–5:15pm
+Hours: Closing soon · 7:30am–7:30pmThursday7:30am–7:30pmFriday7:30am–5:15pmSaturday7:30am–5:15pmSunday7:30am–5:15pmMonday7:30am–7:30pmTuesday7:30am–7:30pmWednesday7:30am–7:30pm
 Phone: 01480 335000
-Opened: 1988"
+Opened: 1988","Perry, Huntingdon PE28 0SR",1988,,male,c ,PE28 0SR,52.2807943941,-0.312276199218
 Liverpool,"HM Prison Liverpool is a category B/C local men's prison, located in the Walton area of Liverpool in England. The prison is operated by Her Majesty's Prison Service. It originally housed male and female inmates. Wikipedia
 
 Address: 68 Hornby Rd, Liverpool L9 3DF
 Opened: 1855
 Phone: 0151 530 4000
-Hours: Closed today SaturdayClosedSundayClosedMonday8:30am–4:30pmTuesday8:30am–4:30pmWednesday8:30am–4:30pmThursday8:30am–4:30pmFriday8:30am–4:30pm"
+Hours: Closed now Thursday8:30am–4:30pmFriday8:30am–4:30pmSaturdayClosedSundayClosedMonday8:30am–4:30pmTuesday8:30am–4:30pmWednesday8:30am–4:30pm","68 Hornby Rd, Liverpool L9 3DF",1855,,"male, female",b/c ,L9 3DF,53.4575433857,-2.96916586118
 Long Lartin,"HM Prison Long Lartin is a Category A men's prison, located in the village of South Littleton in the District of Wychavon in Worcestershire, England. It is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: South Littleton WR11 8TZ
 Phone: 01386 295100
-Opened: 1971"
+Opened: 1971",South Littleton WR11 8TZ,1971,,male,a ,WR11 8TZ,52.1096435768,-1.85498622761
 Low Newton,"HM Prison Frankland is a Category A men's prison located in the village of Brasside in County Durham, England. Frankland is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Brasside, Durham DH1 5YA
 Opened: 1980
-Phone: 0191 376 5000"
+Phone: 0191 376 5000","Brasside, Durham DH1 5YA",1980,,male,a ,DH1 5YA,54.8054046515,-1.55638978107
 Lowdham Grange,"HM Prison Lowdham Grange is a Category B men's private prison, located in the village of Lowdham in Nottinghamshire, England. The prison is operated by the Serco. Wikipedia
 
 Address: Old Epperstone Rd, Lowdham, Nottingham NG14 7BZ
 Phone: 0115 966 9200
 Capacity: 920
-Opened: 1998"
+Opened: 1998","Old Epperstone Rd, Lowdham, Nottingham NG14 7BZ",1998,920,male,b ,NG14 7BZ,53.0201967201,-1.01972834518
 Maidstone,"HM Prison Maidstone is a Category C men's prison, located in Maidstone, Kent, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: 36 County Rd, Maidstone ME14 1UZ
 Opened: 1819
 Phone: 01622 775300
-Architect: Daniel Asher Alexander"
+Architect: Daniel Asher Alexander","36 County Rd, Maidstone ME14 1UZ",1819,,male,c ,ME14 1UZ,51.2782753122,0.524761069322
 Manchester,"HM Prison Manchester is a high-security male prison in Manchester, England, operated by Her Majesty's Prison Service. It is a local prison, holding prisoners remanded into custody from courts in the Manchester area and Category A prisoners. Wikipedia
 
 Address: 1 Southall St, Manchester M60 9AH
 Opened: June 25, 1868
 Phone: 0161 817 5600
-Hours: Open today · 9am–5pmSaturday9am–5pmSunday2–5pmMonday9am–5pmTuesday9am–5pmWednesday9am–5pmThursday9am–5pmFriday9am–5pm
-Architect: Alfred Waterhouse"
+Hours: Closed now Thursday9am–5pmFriday9am–5pmSaturday9am–5pmSunday2–5pmMonday9am–5pmTuesday9am–5pmWednesday9am–5pm
+Architect: Alfred Waterhouse","1 Southall St, Manchester M60 9AH","June 25, 1868",,male,a ,M60 9AH,53.4921882066,-2.24568610741
 Moorland,"HM Prison Moorland is a Category C men's prison and Young Offenders Institution, near Hatfield Woodhouse in South Yorkshire, England. The prison is operated by Her Majesty's Prison Service, and is jointly managed with the nearby Hatfield Prison. Wikipedia
 
-Address: Hatfield House, Bawtry Rd, Doncaster, South Yorkshire DN7 6BW
-Hours: Open today · 8am–5pmSaturday8am–5pmSunday8am–5pmMonday8am–5pmTuesday8am–5pmWednesday8am–5pmThursday8am–5pmFriday8am–5pm
-Phone: 01302 523000"
-Moorland / Hatfield,"HM Prison Moorland is a Category C men's prison and Young Offenders Institution, near Hatfield Woodhouse in South Yorkshire, England. The prison is operated by Her Majesty's Prison Service, and is jointly managed with the nearby Hatfield Prison. Wikipedia
-
-Address: Hatfield House, Bawtry Rd, Doncaster, South Yorkshire DN7 6BW
-Hours: Open today · 8am–5pmSaturday8am–5pmSunday8am–5pmMonday8am–5pmTuesday8am–5pmWednesday8am–5pmThursday8am–5pmFriday8am–5pm
-Phone: 01302 523000"
-Moorland/ Moorland Open,"Address: Thorne Rd, Doncaster DN7 6EL
-Phone:01405 746500
-"
-Morton Hall (IRC),"IRC Morton Hall is an Immigration Removal Centre located in the village of Morton Hall in Lincolnshire, England. The centre is operated by Her Majesty's Prison Service, and was previously a women's prison. Wikipedia
-
-Address: Swinderby, Lincoln, Lincoln LN6 9PT
-Phone: 01522 666700
-Opened: 1985"
+Address: Hatfield House, Bawtry Road, Doncaster DN7 6BW
+Hours: Closed now Thursday8am–5pmFriday8am–5pmSaturday8am–5pmSunday8am–5pmMonday8am–5pmTuesday8am–5pmWednesday8am–5pm
+Phone: 01302 523000","Hatfield House, Bawtry Road, Doncaster DN7 6BW",,,"male, yoi",c ,DN7 6BW,53.5485758622,-0.971490808847
 Mount,"HM Prison The Mount is a Category C men's prison, located on the outskirts of Bovingdon village in Hertfordshire, England. The Mount Prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Molyneaux Ave, Bovingdon HP3 0NZ
 Phone: 01442 836300
-Opened: 1987"
+Opened: 1987","Molyneaux Ave, Bovingdon HP3 0NZ",1987,,male,c ,HP3 0NZ,51.7230546975,-0.5413075593
 New Hall,"HM Prison New Hall is a Closed Category prison for female adults, juveniles and young offenders. The prison is located in the village of Flockton in West Yorkshire, England. New Hall is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: New Hall Way, Flockton, Wakefield WF4 4AX
-Phone: 01924 803000"
+Phone: 01924 803000","New Hall Way, Flockton, Wakefield WF4 4AX",,,"female, yoi",,WF4 4AX,53.6367179631,-1.60873011256
 North Sea Camp,"HM Prison North Sea Camp is a men's open prison, located on the edge of the parish of Freiston in Lincolnshire, England. North Sea Camp is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Croppers Lane, Freiston, Boston PE22 0QX
 Phone: 01205 769300
-Opened: 1935"
-Northallerton,"HM Prison Northallerton was a prison in Northallerton, North Yorkshire, England. It operated from 1788 until December 2013. Wikipedia
-
-Address: East Rd, Northallerton DL6 1NW
-Phone: 01609 785100
-Opened: 1788"
+Opened: 1935","Croppers Lane, Freiston, Boston PE22 0QX",1935,,male,open,PE22 0QX,52.9399677916,0.0634292944602
 Northumberland,"HM Prison Acklington was a Category C men's prison, located near the village of Acklington a few miles from Amble), in Northumberland, England. Acklington Prison was operated by Her Majesty's Prison Service. Wikipedia
 
 Address: HMP Northumberland, Morpeth, Northumberland, NE65 9XG
-Hours: Open today · 8am–6pmSaturday8am–6pmSunday8am–6pmMonday8am–6pmTuesday8am–6pmWednesday8am–6pmThursday8am–6pmFriday8am–6pm
 Phone: 01670 762300
-Opened: 1972"
+Opened: 1972","HMP Northumberland, Morpeth, Northumberland, NE65 9XG",1972,,male,c ,NE65 9XG,55.2964636363,-1.6324150818
 Norwich,"HM Prison Norwich is a Category B/C multi-functional prison for adult and juvenile males, located on Mousehold Heath in Norwich, Norfolk, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Knox Cl, Norwich, Norfolk NR1 4LU
 Opened: 1887
-Phone: 01603 708600"
+Phone: 01603 708600","Knox Cl, Norwich, Norfolk NR1 4LU",1887,,male,b/c ,NR1 4LU,52.637571073,1.31758529184
 Nottingham,"HM Prison Nottingham is a Category B men's prison, located in the Sherwood area of Nottingham, Nottinghamshire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Perry Rd, Sherwood, Nottingham NG5 3AG
 Opened: 1890
-Phone: 0115 872 4000
-Capacity: 1,060"
+Capacity: 1,060
+Phone: 0115 872 4000","Perry Rd, Sherwood, Nottingham NG5 3AG",1890,"1,060",male,b ,NG5 3AG,52.9845309905,-1.15505772915
 Oakwood,"HM Prison Oakwood, is a Category C prison in the village of Featherstone, Wolverhampton, in Staffordshire, England. First opened in April 2012, the prison is operated by G4S and was aimed to be in full operation by autumn 2012. Wikipedia
 
 Address: Oak Road, Featherstone, West Midlands WV10 7QD
 Phone: 01902 799700
 Capacity: 1,605
-Opened: April 2012"
+Opened: April 2012","Oak Road, Featherstone, West Midlands WV10 7QD",April 2012,"1,605",,c ,WV10 7QD,52.6457252416,-2.11295447536
 Onley,"HM Prison Onley is a Category C men's prison, operated by Her Majesty's Prison Service. The prison is named after the lost village of Onley, which is located next to the prison. Wikipedia
 
 Address: Rugby CV23 8AP
 Phone: 01788 523400
-Opened: 1968"
+Opened: 1968",Rugby CV23 8AP,1968,,male,c ,CV23 8AP,52.3264635478,-1.24769082787
 Parc,"HM Prison Parc is a Category B men's private prison and Young Offenders Institution in Bridgend, Mid Glamorgan, Wales. Parc Prison is operated by G4S, and is the only privately operated prison in Wales. Wikipedia
 
 Address: Heol Hopcyn John, Coity, Bridgend CF35 6AP
 Phone: 01656 300200
 Capacity: 1,200
-Opened: 1997"
+Opened: 1997","Heol Hopcyn John, Coity, Bridgend CF35 6AP",1997,"1,200","male, yoi",b ,CF35 6AP,51.5309443708,-3.56313959332
 Pentonville,"HM Prison Pentonville is a Category B/C men's prison, operated by Her Majesty's Prison Service. Pentonville Prison is not actually within Pentonville itself, but is located further north, on the Caledonian ... Wikipedia
 
 Address: Caledonian Rd, London N7 8TT
@@ -527,231 +422,174 @@ Opened: 1842
 Phone: 020 7023 7000
 Engineer: Joshua Webb
 London borough: London Borough of Islington
-Architects: Joshua Jebb, Joshua Webb"
-Peterborough (Female),"HM Prison Peterborough is a Category B private prison for men, and a closed prison for women and female young offenders, located in Peterborough, Cambridgeshire, England. Wikipedia
-
-Address: Saville Rd, Peterborough PE3 7PD
-Phone: 01733 217500
-Capacity: 840
-Opened: 2005"
-Peterborough (Male & Female),
-Peterborough (Male),"HM Prison Peterborough is a Category B private prison for men, and a closed prison for women and female young offenders, located in Peterborough, Cambridgeshire, England. Wikipedia
-
-Address: Saville Rd, Peterborough PE3 7PD
-Phone: 01733 217500
-Capacity: 840
-Opened: 2005"
+Architects: Joshua Jebb, Joshua Webb","Caledonian Rd, London N7 8TT",1842,,male,b/c ,N7 8TT,51.5450038763,-0.115883751626
+Peterborough (Male & Female),,,,,,,,,
 Portland,"HM Prison Portland is a male Adult/Young Offenders Institution, located in the village of The Grove on the Isle of Portland, in Dorset, England. Portland YOI prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: 104 Grove Rd, Portland, Dorset DT5 1DL
 Phone: 01305 715600
-Opened: 1848"
-Prescoed,"HM Prison Prescoed is a Category D men's open prison, located in Coed-y-paen, three miles from Usk in Monmouthshire, South Wales. Prescoed is operated by Her Majesty's Prison Service, and acts as a satellite prison of the nearby HMP Usk. Wikipedia
-
-Address: Pontypool
-Opened: 1939
-Phone: 01291 671600
-Capacity: 230"
+Opened: 1848","104 Grove Rd, Portland, Dorset DT5 1DL",1848,,"male, yoi",,DT5 1DL,50.5503611938,-2.42212106647
 Preston,"HM Prison Preston is a Category B men's prison, located in the St Matthew's area of Preston in Lancashire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: 2 Ribbleton Ln, Preston PR1 5AB
 Opened: 1790
-Capacity: 750
-Phone: 01772 444550"
+Phone: 01772 444550
+Capacity: 750","2 Ribbleton Ln, Preston PR1 5AB",1790,750,male,b ,PR1 5AB,53.7614612887,-2.68936550662
 Ranby,"HM Prison Ranby is a Category C men's prison, located in the village of Ranby in Nottinghamshire, England. The prison is operated by Her Majesty's Prison Service. It holds about 1000 male prisoners. Wikipedia
 
 Address: Retford DN22 8EU
-Phone: 01777 862000"
-Reading,"HM Prison Reading, formerly known as Reading Gaol, is a former prison located in Reading, Berkshire, England. The prison was operated by Her Majesty's Prison Service until its closure at the end of 2013. It is a Grade II-listed building. Wikipedia
-
-Address: 〒RG1 3HY Reading, フォーベリー・ロード
-Opened: 1844
-Closed: November 2013
-Phone: 0118 908 5000
-Owner: Ministry of Justice
-Architectural style: Victorian architecture
-Architect: George Gilbert Scott"
+Phone: 01777 862000",Retford DN22 8EU,,,male,c ,DN22 8EU,53.3214262333,-0.999028480404
 Risley,"HM Prison Risley is a Category C men's prison, located in the Risley area of Warrington, Cheshire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Warrington Rd, Risley, Warrington WA3 6BP
 Opened: 1964
-Phone: 01925 733000"
+Phone: 01925 733000","Warrington Rd, Risley, Warrington WA3 6BP",1964,,male,c ,WA3 6BP,53.4386941143,-2.52520687191
 Rochester,"HM Prison Rochester is a male Young Offenders Institution, located in the Borstal area of Rochester in Kent, England. The prison is operated by Her Majesty's Prison Service, and is located next to HMP Cookham Wood. Wikipedia
 
 Address: 1 Fort Rd, Rochester, Medway ME1 3QS
 Phone: 01634 803100
-Opened: 1874"
+Opened: 1874","1 Fort Rd, Rochester, Medway ME1 3QS",1874,,"male, yoi",,ME1 3QS,51.3666482749,0.493983559777
 Rye Hill,"HM Prison Rye Hill is a Category B men's private prison, operated by G4S. The prison is situated next to HMP Onley, in the parish of Barby, Northamptonshire, England. Wikipedia
 
 Address: Willoughby, Rugby CV23 8SZ
 Phone: 01788 523300
 Capacity: 664
-Opened: 2001"
+Opened: 2001","Willoughby, Rugby CV23 8SZ",2001,664,male,b ,CV23 8SZ,52.327520158,-1.24280122713
 Send,"HM Prison Send is a closed category women's prison in the extreme south of Ripley nearer Send in Surrey, England. Its post town is Woking. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Ripley Rd, Woking GU23 7LJ
-Hours: Open today · 2:15–4:15pmSaturday2:15–4:15pmSunday2:15–4:15pmMondayClosedTuesdayClosedWednesdayClosedThursday2:15–4:15pmFridayClosed
+Hours: Closed now Thursday2:15–4:15pmFridayClosedSaturday2:15–4:15pmSunday2:15–4:15pmMondayClosedTuesdayClosedWednesdayClosed
 Phone: 01483 471000
-Opened: 1962"
-Sheppey,
-Shepton Mallet,"HMP Shepton Mallet, sometimes known as Cornhill, is a former prison located in Shepton Mallet, Somerset, England. Wikipedia
-
-Opened: 1625"
-Shepton Mallet / Erlestoke,"Address: Erlestoke House, Erlestoke, Devizes SN10 5TU
-Phone:01380 814250
-"
-Shrewsbury,"HM Prison Shrewsbury was a Category B/C men's prison in Shrewsbury, Shropshire, England. It closed in March 2013.
-The former prison site, on Howard Street, adjacent to Shrewsbury railway station, is near the site of the Dana Gaol, a medieval prison. Wikipedia
-
-Address: The Dana, Shrewsbury SY1 2HR
-Hours: Open today · 12–8pmSaturday12–8pmSunday10am–6pmMondayClosedTuesday2–8pmWednesday7:30–11pmThursday2–8pmFriday2–8pm
-Phone: 01743 343100
-Opened: 1793"
-Spring Hill,"HM Prison Spring Hill is a Category D men's prison, located in the village of Grendon Underwood, in Buckinghamshire, England. Wikipedia
-
-Address: Grendon, Grendon Underwood, Aylesbury HP18 0TL
-Phone: 01296 445000
-Opened: 1953"
+Opened: 1962","Ripley Rd, Woking GU23 7LJ",1962,,female,,GU23 7LJ,51.2727006072,-0.489929240525
 Stafford,"HM Prison Stafford is a Category C men's prison, located in Stafford, Staffordshire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: 54 Gaol Rd, Stafford ST16 3AW
 Opened: 1793
-Phone: 01785 773000"
+Phone: 01785 773000","54 Gaol Rd, Stafford ST16 3AW",1793,,male,c ,ST16 3AW,52.8115151026,-2.11845190909
 Standford Hill (Sheppey),"HM Prison Standford Hill is a Category D men's prison, located close to the village of Eastchurch on the Isle of Sheppey, Kent. Standford Hill forms part of the Sheppey prisons cluster, which also includes HMP Elmley and HMP Swaleside. Wikipedia
 
 Address: Church Rd, Eastchurch, Sheerness ME12 4AA
 Phone: 01795 884500
-Opened: 1950"
+Opened: 1950","Church Rd, Eastchurch, Sheerness ME12 4AA",1950,,male,d ,ME12 4AA,51.3909130267,0.849270881865
 Stocken,"HM Prison Stocken is a Category C men's prison located in the parish of Stretton, in the county of Rutland, England. Stocken is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Stocken Hall Rd, Stretton, Oakham LE15 7RD
 Phone: 01780 795100
-Opened: 1985"
+Opened: 1985","Stocken Hall Rd, Stretton, Oakham LE15 7RD",1985,,male,c ,LE15 7RD,52.7459310911,-0.581781453185
 Stoke Heath,"HM Prison Stoke Heath is a male adult male Category C prison and Young Offenders Institution, located in the village of Stoke Heath in Shropshire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Stoke Heath, Market Drayton, Shropshire TF9 2JL
 Phone: 01630 636000
-Opened: 1964"
+Opened: 1964","Stoke Heath, Market Drayton, Shropshire TF9 2JL",1964,,"male, yoi",c ,TF9 2JL,52.865328157,-2.52725483672
 Styal,"HM Prison Styal is a Closed Category prison for female adults and young offenders in Styal, Cheshire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Wilmslow SK9 4HR
 Phone: 01625 553000
-Opened: 1962"
-Sub Total,
+Opened: 1962",Wilmslow SK9 4HR,1962,,"female, yoi",,SK9 4HR,53.3411284199,-2.23811606757
 Sudbury,"HM Prison Sudbury is a Category D men's prison, located in the village of Sudbury in Derbyshire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Ashbourne Road, Sudbury, Ashbourne DE6 5HW
 Phone: 01283 584000
-Opened: 1948"
+Opened: 1948","Ashbourne Road, Sudbury, Ashbourne DE6 5HW",1948,,male,d ,DE6 5HW,52.8927658229,-1.76824968721
 Swaleside (Sheppey),"HM Prison Swaleside is a Category B men's prison, located close to the village of Eastchurch on the Isle of Sheppey, Kent. Swaleside forms part of the Sheppey prisons cluster, which also includes HMP Elmley and HMP Standford Hill. Wikipedia
 
 Address: Brabazon Rd, Eastchurch, Isle of Sheppey ME12 4AX
 Phone: 01795 804100
 Capacity: 1,112
-Opened: 1988"
+Opened: 1988","Brabazon Rd, Eastchurch, Isle of Sheppey ME12 4AX",1988,"1,112",male,b ,ME12 4AX,51.3938249167,0.855004034365
 Swansea,"HM Prison Swansea is a Category B/C men's prison, located in the Sandfields area of Swansea, Wales. The prison is operated by Her Majesty's Prison Service, and is colloquially known as 'Cox's farm', after a former governor. Wikipedia
 
 Address: 200 Oystermouth Rd, Swansea SA1 3SR
 Opened: 1861
-Phone: 01792 485451"
+Phone: 01792 485451","200 Oystermouth Rd, Swansea SA1 3SR",1861,,male,b/c ,SA1 3SR,51.6153825534,-3.94888597491
 Swinfen Hall,"HM Prison Swinfen Hall is a Category C men's prison and Young Offenders Institution, located in the village of Swinfen in Staffordshire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Swinfen Hall, Lichfield WS14 9QS
 Phone: 01543 484000
-Opened: 1963"
+Opened: 1963","Swinfen Hall, Lichfield WS14 9QS",1963,,"male, yoi",c ,WS14 9QS,52.6533508967,-1.80503803704
 Thameside,"HM Prison Thameside is a Category B & C men's private prison in the Thamesmead area of the Royal Borough of Greenwich, south-east London, England. Thameside Prison is operated by Serco and is situated next to Belmarsh and Isis prisons. Wikipedia
 
 Address: London
 Opened: March 30, 2012
-London borough: Royal Borough of Greenwich"
+London borough: Royal Borough of Greenwich",London,"March 30, 2012",,male,b & c ,,,
 Thorn Cross,"HM Prison Thorn Cross is a Category D Adult Male Institution for males aged 21+. The prison is located in the village of Appleton Thorn in Cheshire, England. Thorn Cross is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Arley Rd, Appleton WA4 4RL
 Phone: 01925 805100
-Opened: 1985"
-Total,
-Usk,"HM Prison Usk is a Category C men's prison, located in Maryport Street in Usk, Monmouthshire, Wales. The prison is operated by Her Majesty's Prison Service, and jointly managed with the nearby HMP Prescoed. Wikipedia
-
-Address: 47 Maryport St, Usk NP15 1XP
-Phone: 01291 671600
-Opened: 1844"
+Opened: 1985","Arley Rd, Appleton WA4 4RL",1985,,male,d ,WA4 4RL,53.3487740825,-2.54268259071
 Usk / Prescoed,"HM Prison Usk is a Category C men's prison, located in Maryport Street in Usk, Monmouthshire, Wales. The prison is operated by Her Majesty's Prison Service, and jointly managed with the nearby HMP Prescoed. Wikipedia
 
 Address: 47 Maryport St, Usk NP15 1XP
 Phone: 01291 671600
-Opened: 1844"
-Verne (IRC),"Address: Portland DT5 1EQ
-Phone:01305 825000
-"
+Opened: 1844","47 Maryport St, Usk NP15 1XP",1844,,male,c ,NP15 1XP,51.6994275626,-2.90048588239
 Wakefield,"Her Majesty's Prison Wakefield is a Category A men's prison, located in Wakefield, West Yorkshire, England. The prison is operated by Her Majesty's Prison Service, and is the largest high security prison in the United Kingdom. Wikipedia
 
 Address: 5 Love Ln, Wakefield WF2 9AG
 Opened: 1594
-Phone: 01924 612000"
+Phone: 01924 612000","5 Love Ln, Wakefield WF2 9AG",1594,,male,a ,WF2 9AG,53.6832942268,-1.50928423926
 Wandsworth,"HM Prison Wandsworth is a Category B men's prison at Wandsworth in the London Borough of Wandsworth, south west London, England. It is operated by Her Majesty's Prison Service and is the largest prison in the United Kingdom. Wikipedia
 
 Address: Heathfield Rd, London SW18 3HS
 Opened: 1851
 Phone: 020 8588 4000
-London borough: London Borough of Wandsworth"
+London borough: London Borough of Wandsworth","Heathfield Rd, London SW18 3HS",1851,,male,b ,SW18 3HS,51.4482215206,-0.191540267803
 Warren Hill,"HM Young Offenders Institution Warren Hill is a male juvenile's prison located near the village of Hollesley in Suffolk, England. The prison is operated by Her Majesty's Prison Service, and is situated next to Hollesley Bay Prison. Wikipedia
 
 Address: Hollesley, Woodbridge IP12 3JW
 Phone: 01394 633400
-Opened: 2002 (1982)"
+Opened: 2002 (1982)","Hollesley, Woodbridge IP12 3JW",2002 (1982),,"male, yoi",,IP12 3JW,52.0512694616,1.4513407306
 Wayland,"HM Prison Wayland is a Category C men's prison, located near the village of Griston in Norfolk, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Thetford IP25 6RL
 Phone: 01953 804100
-Opened: 1985"
+Opened: 1985",Thetford IP25 6RL,1985,,male,c ,IP25 6RL,52.5537585778,0.859461004009
 Wealstun,"HM Prison Wealstun is a Category C men's prison, located near the village of Thorp Arch in West Yorkshire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Thorp Arch, Wetherby LS23 7AZ
 Phone: 01937 444400
-Opened: 1995 (1965)"
-Wellingborough,"Address: Millers Park, Wellingborough NN8 2NH
-Phone:01933 232700
-"
+Opened: 1995 (1965)","Thorp Arch, Wetherby LS23 7AZ",1995 (1965),,male,c ,LS23 7AZ,53.9161778208,-1.32835553066
 Werrington,"Address: Ash Bank Rd, Werrington, Stoke-on-Trent ST9 0JS
-"
+","Ash Bank Rd, Werrington, Stoke-on-Trent ST9 0JS",,,,,ST9 0JS,53.0216108717,-2.10127259162
 Wetherby,"HMP/YOI Wetherby is a male juveniles prison, located in Wetherby, West Yorkshire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: York Rd, Wetherby, West Yorkshire LS22 5ED
 Phone: 01937 544200
-Opened: 1958"
+Opened: 1958","York Rd, Wetherby, West Yorkshire LS22 5ED",1958,,"male, yoi",,LS22 5ED,53.9352486445,-1.36781980359
 Whatton,"HM Prison Whatton is a Category C men's prison, located in the village of Whatton, near Bingham in Nottinghamshire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: UK, New Ln, Whatton, Nottingham NG13 9FQ
 Phone: 01949 803200
-Opened: 1966"
+Opened: 1966","UK, New Ln, Whatton, Nottingham NG13 9FQ",1966,,male,c ,NG13 9FQ,52.9466455354,-0.911408288888
 Whitemoor,"HM Prison Whitemoor is a Category A men's prison, located near the town of March in Cambridgeshire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Longhill Rd, Whitemoor, PE15 0PR
 Phone: 01354 602350
-Opened: 1992"
+Opened: 1992","Longhill Rd, Whitemoor, PE15 0PR",1992,,male,a ,PE15 0PR,52.5757818455,0.0808848562387
 Winchester,"HM Prison Winchester is a Category B men's prison, located in Winchester, Hampshire, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Romsey Rd, Winchester SO22 5DF
-Phone: 01962 723000"
-Wolds,"HM Prison Wolds is a Category C men's prison, located south-west of Everthorpe, in the East Riding of Yorkshire, England. The prison is operated by Her Majesty's Prison Service, and is situated next to HMP Everthorpe. Wikipedia
-
-Address: HMP Wolds, Everthorpe HU15 2JZ
-Opened: 1992
-Phone: 01430 428000
-Capacity: 395"
+Phone: 01962 723000","Romsey Rd, Winchester SO22 5DF",,,male,b ,SO22 5DF,51.0628650623,-1.32736965935
 Woodhill,"HM Prison Woodhill is a Category A male prison, located in Milton Keynes, England. Woodhill Prison is operated by Her Majesty's Prison Service. There is a Young Offenders Institution adjacent to the prison. Wikipedia
 
 Address: Tattenhoe St, Milton Keynes MK4 4DA
 Phone: 01908 722000
-Hours: Open today · 8:15am–4:45pmSaturday8:15am–4:45pmSunday12:30–4:45pmMonday12–4:30pmTuesday12–4:30pmWednesday12–4:30pmThursday12–4:30pmFridayClosed
-Opened: 1992"
+Hours: Closed now Thursday12–4:30pmFridayClosedSaturday8:15am–4:45pmSunday12:30–4:45pmMonday12–4:30pmTuesday12–4:30pmWednesday12–4:30pm
+Opened: 1992","Tattenhoe St, Milton Keynes MK4 4DA",1992,,"male, yoi",a ,MK4 4DA,52.0130885608,-0.807743591263
 Wormwood Scrubs,"HM Prison Wormwood Scrubs is a Category B men's prison, located in the Wormwood Scrubs area of the London Borough of Hammersmith and Fulham, in inner west London, England. The prison is operated by Her Majesty's Prison Service. Wikipedia
 
 Address: Du Cane Road, London W12 0AE
 Opened: 1891
 Phone: 020 8588 3200
-Hours: Open today · 9–10am, 10:30–11:30am, 2–3pm, 3:30–4:30pmSaturday9–10am, 10:30–11:30am, 2–3pm, 3:30–4:30pmSunday2–3pm, 3:30–4:30pmMonday1:45–3:45pmTuesday9–11amWednesday9–11am, 1:45–3:45pmThursday9–11am, 1:45–3:45pmFridayClosed
-London borough: London Borough of Hammersmith and Fulham"
+Hours: Closed now Thursday9–11am, 1:45–3:45pmFridayClosedSaturday9–10am, 10:30–11:30am, 2–3pm, 3:30–4:30pmSunday2–3pm, 3:30–4:30pmMonday1:45–3:45pmTuesday9–11amWednesday9–11am, 1:45–3:45pm
+London borough: London Borough of Hammersmith and Fulham","Du Cane Road, London W12 0AE",1891,,male,b ,W12 0AE,51.5170110854,-0.240415781491
 Wymott,"HM Prison Wymott is a Category C men's training prison, located in the village of Ulnes Walton, in Lancashire, England. Wymott is operated by Her Majesty's Prison Service, and is situated next to HMP Garth. Wikipedia
 
-Opened: 1979"
+Opened: 1979",,1979,,male,c ,,,
+Morton Hall (IRC),"IRC Morton Hall is an Immigration Removal Centre located in the village of Morton Hall in Lincolnshire, England. The centre is operated by Her Majesty's Prison Service, and was previously a women's prison. Wikipedia
+
+Address: Swinderby, Lincoln, Lincoln LN6 9PT
+Phone: 01522 666700
+Opened: 1985","Swinderby, Lincoln, Lincoln LN6 9PT",1985,,female,,LN6 9PT,53.1679431076,-0.687723589205
+Verne (IRC),"Address: Portland DT5 1EQ
+Phone:01305 825000
+",Portland DT5 1EQ,,,,,DT5 1EQ,50.5613638287,-2.43561752718

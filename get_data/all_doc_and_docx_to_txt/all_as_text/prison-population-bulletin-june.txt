@@ -1,0 +1,200 @@
+	Monthly Bulletin - June 2011
+Report Date:	24/06/2011	Page	1
+	Prison Name	Baseline 	In Use CNA	Operational 	Population *	% Pop to     In 	% Accommodation 
+	CNA	Capacity	Use CNA	Available
+Acklington	946	890	890	831	93%	94%
+Altcourse	794	794	1,204	1,169	147%	100%
+Ashfield	407	407	360	354	87%	100%
+Askham Grange	150	126	128	124	98%	84%
+Aylesbury	437	421	444	420	100%	96%
+Bedford	322	322	506	480	149%	100%
+Belmarsh	800	800	933	850	106%	100%
+Birmingham	1,112	1,093	1,450	1,457	133%	98%
+Blantyre House	122	122	122	120	98%	100%
+Blundeston	481	409	454	444	109%	85%
+Brinsford	545	545	577	527	97%	100%
+Bristol	424	416	598	582	140%	98%
+Brixton	530	530	798	719	136%	100%
+Bronzefield	527	527	527	484	92%	100%
+Buckley Hall	410	410	445	439	107%	100%
+Bullingdon	879	879	1,114	1,099	125%	100%
+Bullwood Hall	220	220	228	216	98%	100%
+Bure	503	503	523	521	104%	100%
+Canterbury	195	195	314	311	159%	100%
+Cardiff	554	539	804	798	148%	97%
+Castington	407	407	409	353	87%	100%
+Channings Wood	698	698	731	727	104%	100%
+Chelmsford	554	554	695	673	121%	100%
+Coldingley	494	494	513	510	103%	100%
+Cookham Wood	143	143	143	122	85%	100%
+Dartmoor	635	493	514	501	102%	78%
+Deerbolt	513	513	513	480	94%	100%
+Doncaster	713	713	1,145	1,094	153%	100%
+Dorchester	146	146	260	209	143%	100%
+Dovegate	1,064	1,060	1,135	1,132	107%	100%
+Downview	359	291	291	278	96%	81%
+Drake Hall	315	315	315	310	98%	100%
+Durham	606	606	1,017	885	146%	100%
+East Sutton Park	98	98	100	100	102%	100%
+Eastwood Park	333	333	363	332	100%	100%
+Elmley (Sheppey Cluster)	943	943	1,252	1,172	124%	100%
+Erlestoke	470	370	370	366	99%	79%
+Everthorpe	603	603	689	674	112%	100%
+Exeter	322	316	545	517	164%	98%
+Featherstone	671	642	655	651	101%	96%
+Feltham	762	762	762	702	92%	100%
+Ford	521	521	521	508	98%	100%
+Forest Bank	1,064	1,064	1,364	1,309	123%	100%
+Foston Hall	290	290	310	288	99%	100%
+Frankland	859	844	844	816	97%	98%
+Full Sutton	604	596	608	605	102%	99%
+Garth	812	811	846	834	103%	100%
+Gartree	677	677	677	675	100%	100%
+Glen Parva	649	649	808	728	112%	100%
+
+Report Date:	24/06/2011	Page	2
+	Prison Name	Baseline 	In Use CNA	Operational 	Population *	% Pop to     In 	% Accommodation 
+	CNA	Capacity	Use CNA	Available
+Gloucester	221	213	321	306	144%	96%
+Grendon / Spring Hill	585	571	571	545	95%	98%
+Guys Marsh	520	451	508	500	111%	87%
+Hatfield	260	260	260	252	97%	100%
+Haverigg	622	622	644	627	101%	100%
+Hewell	1,173	1,173	1,431	1,399	119%	100%
+High Down	999	999	1,103	1,085	109%	100%
+Highpoint (North and South)	1,309	1,299	1,323	1,321	102%	99%
+Hindley	506	440	440	335	76%	87%
+Hollesley Bay	365	365	365	360	99%	100%
+Holloway	540	533	591	538	101%	99%
+Holme House	1,034	1,034	1,212	1,074	104%	100%
+Hull	723	723	1,044	946	131%	100%
+Huntercombe	370	370	370	369	100%	100%
+Isis	478	478	622	434	91%	100%
+Isle of Wight	1,563	1,550	1,686	1,662	107%	99%
+Kennet	175	175	342	335	191%	100%
+Kingston	199	199	199	197	99%	100%
+Kirkham	592	592	592	589	99%	100%
+Kirklevington Grange	283	283	283	267	94%	100%
+Lancaster Farms	480	480	530	524	109%	100%
+Latchmere House	207	207	207	200	97%	100%
+Leeds	829	772	1,080	995	129%	93%
+Leicester	210	203	386	345	170%	97%
+Lewes	623	495	507	478	97%	79%
+Leyhill	532	491	491	475	97%	92%
+Lincoln	431	427	729	602	141%	99%
+Lindholme	930	930	1,010	996	107%	100%
+Littlehey	1,143	1,083	1,146	1,126	104%	95%
+Liverpool	1,186	1,176	1,448	1,231	105%	99%
+Long Lartin	629	622	622	615	99%	99%
+Low Newton	314	298	336	264	89%	95%
+Lowdham Grange	900	900	920	927	103%	100%
+Maidstone	565	565	600	598	106%	100%
+Manchester	965	917	1,238	1,167	127%	95%
+Moorland	763	453	486	469	104%	59%
+Mount	747	747	768	759	102%	100%
+New Hall	395	392	446	392	100%	99%
+North Sea Camp	378	378	378	372	98%	100%
+Northallerton	146	146	252	189	129%	100%
+Norwich	625	625	767	751	120%	100%
+Nottingham	723	723	1,060	1,007	139%	100%
+Onley	710	710	710	699	98%	100%
+Parc	1,170	1,170	1,474	1,434	123%	100%
+Pentonville	915	915	1,310	1,214	133%	100%
+Peterborough	840	840	1,008	930	111%	100%
+Portland	463	463	483	467	101%	100%
+Preston	455	455	842	737	162%	100%
+Ranby	893	892	1,098	1,083	121%	100%
+Reading	190	190	293	229	121%	100%
+Risley	1,050	1,050	1,095	1,085	103%	100%
+Rochester	756	658	658	535	81%	87%
+Rye Hill	600	600	625	620	103%	100%
+Send	282	282	282	275	98%	100%
+
+Report Date:	24/06/2011	Page	3
+	Prison Name	Baseline 	In Use CNA	Operational 	Population *	% Pop to     In 	% Accommodation 
+	CNA	Capacity	Use CNA	Available
+Shepton Mallet	165	165	189	186	113%	100%
+Shrewsbury	184	184	340	335	182%	100%
+Stafford	741	725	741	733	101%	98%
+Standford Hill (Sheppey 	464	464	464	452	97%	100%
+Cluster)
+Stocken	779	779	842	840	108%	100%
+Stoke Heath	634	634	750	256	40%	100%
+Styal	461	450	459	438	97%	98%
+Sudbury	581	581	581	570	98%	100%
+Swaleside (Sheppey Cluster)	1,112	1,112	1,112	1,089	98%	100%
+Swansea	248	240	435	433	180%	97%
+Swinfen Hall	604	604	654	639	106%	100%
+Thorn Cross	322	322	322	288	89%	100%
+Usk / Prescoed	352	352	471	467	133%	100%
+Verne	572	572	607	595	104%	100%
+Wakefield	751	749	749	738	99%	100%
+Wandsworth	1,101	1,101	1,665	1,627	148%	100%
+Warren Hill	222	128	128	119	93%	58%
+Wayland	957	957	1,017	1,009	105%	100%
+Wealstun	810	810	832	815	101%	100%
+Wellingborough	638	580	588	576	99%	91%
+Werrington	160	160	160	142	89%	100%
+Wetherby	408	395	395	360	91%	97%
+Whatton	779	776	841	836	108%	100%
+Whitemoor	473	458	458	455	99%	97%
+Winchester	499	499	706	688	138%	100%
+Wolds	320	320	360	350	109%	100%
+Woodhill	661	656	819	784	120%	99%
+Wormwood Scrubs	1,176	1,176	1,281	1,235	105%	100%
+Wymott	1,113	1,113	1,176	1,152	104%	100%
+Sub total	78,532	76,747	89,148	**	84,634	110%	98%
+NOMS Operated Immigration Removal Centres (IRCs)
+Dover (IRC)	316	316	316	270	85%	100%
+Haslar (IRC)	160	160	160	145	91%	100%
+Lindholme (IRC)	124	118	118	107	91%	95%
+Morton Hall (IRC)	160	160	160	110	69%	100%
+Total	79,292	77,501	87,902	85,266	110%	98%
+Report produced by Population Strategy.
+
+The CNA and Operational Capacity figures are taken from the latest signed cell certificates held by PS.
+
+*The prison unlock figure may be lower than the 'Population', as the 'Population' includes prisoners on authorised absence.
+
+** Useable Operational Capacity of the estate is the sum of all establishments' operational capacity less 2000 places.
+
+The report is compiled from data on the last working Friday in June 2011
+
+.
+
+Report Date:	24/06/2011	Page	4
+Definitions of Accommodation Terms
+
+Certified Normal Accommodation (CNA)
+
+Certified Normal Accommodation (CNA), or un-crowded capacity, is the Prison Service's own measure of accommodation.  CNA 
+represents the good, decent standard of accommodation that the Service aspires to provide all prisoners.
+
+Baseline CNA
+
+Baseline CNA is the sum total of all certified accommodation in an establishment except, normally:
+  •Cells in punishment or segregation units.
+  •Healthcare cells or rooms in training prisons and YOIs that are not routinely used to accommodate long stay patients.
+
+In-Use CNA
+
+In-use CNA is baseline CNA less those places not available for immediate use, for example: damaged cells, cells affected by 
+building works.
+
+Operational Capacity
+
+The operational capacity of a prison is the total number of prisoners that an establishment can hold taking into account control, 
+security and the proper operation of the planned regime. It is determined by Directors of Offender Management on the basis of 
+operational judgement and experience.
+
+Useable Operational Capacity
+
+Useable Operational Capacity of the estate is the sum of all establishments' operational capacity less 2000 places. This is known 
+as the operating margin and reflects the constraints imposed by the need to provide separate accommodation for different 
+classes of prisoner i.e. by sex, age, security category, conviction status, single cell risk assessment and also due to 
+geographical distribution.
+
+Establishments Exceeding their Operational Capacity
+
+Governing governors and Controllers and Directors of contracted out prisons must ensure that the approved operational 
+capacity is not normally exceeded other than on an exceptional basis to accommodate pressing operational need.

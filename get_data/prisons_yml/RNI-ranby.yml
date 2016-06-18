@@ -1,0 +1,33 @@
+---
+name: Ranby
+nomis_id: RNI
+address:
+- RETFORD
+- DN22 8EU
+email: socialvisits.ranby@hmps.gsi.gov.uk
+enabled: true
+estate: Ranby
+phone: 01777 862107
+slot_anomalies:
+  2015-12-28:
+  - 1345-1600
+slots:
+  fri:
+  - 1345-1600
+  mon:
+  - 1345-1600
+  sat:
+  - 0845-1100
+  - 1345-1600
+  sun:
+  - 0845-1100
+  - 1345-1600
+unbookable:
+- 2014-12-25
+- 2014-12-26
+- 2015-01-01
+- 2015-12-24
+- 2015-12-25
+- 2015-12-26
+- 2015-12-31
+- 2016-01-01

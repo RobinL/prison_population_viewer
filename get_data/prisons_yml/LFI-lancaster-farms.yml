@@ -1,0 +1,23 @@
+---
+name: Lancaster Farms
+nomis_id: LFI
+address:
+- Stone Row Head
+- LA1 3QZ
+email: lancasterfarmsdomesticvisitsbooking@hmps.gsi.gov.uk
+enabled: true
+estate: Lancaster Farms
+phone: 01524 563636
+slots:
+  sat:
+  - 1400-1500
+  - 1530-1630
+  sun:
+  - 1400-1500
+  - 1530-1630
+  wed:
+  - 1400-1500
+  - 1530-1630
+unbookable:
+- 2014-12-25
+- 2015-12-25

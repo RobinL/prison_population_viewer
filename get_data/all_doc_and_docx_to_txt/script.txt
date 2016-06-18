@@ -1,0 +1,21 @@
+Sub ConvertAllTheFiles()
+Dim file As String
+Dim path As String
+ 
+path = "c:\blah\zzz\whatever\"  ' <== change to your folder
+                                ' be sure to include final backslash
+ 
+file = Dir(path & "*.docx")
+Do While file <> ""
+   Documents.Open FileName:=path & file
+
+   new_file = Replace(".docx", ".txt", file)
+   new_file = Replace(".doc", ".txt", file)
+   With ActiveDocument
+
+	.SaveAs path & new_file, wdFormatText
+        .Close
+   End With
+   file = Dir()
+Loop
+End Sub

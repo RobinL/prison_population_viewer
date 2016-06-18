@@ -1,0 +1,36 @@
+---
+name: Swinfen Hall
+nomis_id: SNI
+address:
+- Swinfen Hall
+- FLichfield
+- Staffordshire
+- WS14 9QS
+adult_age: 10
+email: visitsbooking.westmidlands@noms.gsi.gov.uk
+enabled: true
+estate: Swinfen Hall
+phone: 0300 060 6507
+slots:
+  tue:
+  - 1400-1600
+  wed:
+  - 1400-1600
+  sat:
+  - 1400-1600
+  sun:
+  - 1400-1600
+unbookable:
+- 2014-04-18
+- 2014-04-21
+- 2014-05-05
+- 2014-05-26
+- 2014-12-25
+- 2014-12-26
+- 2015-01-01
+- 2015-12-21
+- 2015-12-24
+- 2015-12-25
+- 2015-12-28
+- 2015-12-31
+- 2016-01-01

@@ -1,0 +1,188 @@
+	Monthly Bulletin - June 2014
+Report Date:	27/06/2014	Page	1
+	Prison Name	Baseline 	In Use CNA	Operational 	Population *	% Pop to     In 	% Accommodation 
+	CNA	Capacity	Use CNA	Available
+Altcourse	794	794	1,133	1,127	142%	100%
+Ashfield	408	408	400	389	95%	100%
+Askham Grange	150	126	128	90	71%	84%
+Aylesbury	410	410	444	441	108%	100%
+Bedford	322	322	506	505	157%	100%
+Belmarsh	781	781	930	880	113%	100%
+Birmingham	1,093	1,093	1,450	1,441	132%	100%
+Blantyre House	122	122	122	117	96%	100%
+Brinsford	545	489	521	492	101%	90%
+Bristol	425	407	614	611	150%	96%
+Brixton	530	530	798	724	137%	100%
+Bronzefield	527	527	527	508	96%	100%
+Buckley Hall	410	410	445	443	108%	100%
+Bullingdon	879	879	1,114	1,110	126%	100%
+Bure	604	604	624	621	103%	100%
+Cardiff	539	539	814	804	149%	100%
+Channings Wood	698	698	731	719	103%	100%
+Chelmsford	550	550	714	690	125%	100%
+Coldingley	493	493	513	513	104%	100%
+Cookham Wood	143	143	143	141	99%	100%
+Dartmoor	642	639	659	650	102%	100%
+Deerbolt	513	513	513	466	91%	100%
+Doncaster	738	738	1,145	1,136	154%	100%
+Dovegate	1,064	1,060	1,133	1,117	105%	100%
+Downview	355	0	0	0%
+Drake Hall	315	315	315	314	100%	100%
+Durham	591	591	995	939	159%	100%
+East Sutton Park	98	98	100	82	84%	100%
+Eastwood Park	410	315	363	319	101%	77%
+Elmley (Sheppey)	943	943	1,252	1,244	132%	100%
+Erlestoke	494	491	491	488	99%	99%
+Exeter	326	318	561	536	169%	98%
+Featherstone	671	671	687	684	102%	100%
+Feltham	762	650	650	574	88%	85%
+Ford	521	521	531	520	100%	100%
+Forest Bank	1,064	1,064	1,460	1,458	137%	100%
+Foston Hall	290	290	310	295	102%	100%
+Frankland	859	788	788	784	99%	92%
+Full Sutton	604	596	616	601	101%	99%
+Garth	811	731	766	773	106%	90%
+Gartree	708	708	708	699	99%	100%
+Glen Parva	637	637	728	658	103%	100%
+Grendon / Springhill	586	554	554	529	95%	95%
+Guys Marsh	518	518	579	573	111%	100%
+Haverigg	622	622	644	638	103%	100%
+Hewell	1,003	1,003	1,301	1,289	129%	100%
+High Down	999	999	1,163	1,152	115%	100%
+Highpoint (North and South)	1,299	1,299	1,331	1,320	102%	100%
+Hindley	534	402	367	276	69%	75%
+
+Report Date:	27/06/2014	Page	2
+	Prison Name	Baseline 	In Use CNA	Operational 	Population *	% Pop to     In 	% Accommodation 
+	CNA	Capacity	Use CNA	Available
+Hollesley Bay	421	434	434	432	100%	103%
+Holloway	540	533	591	533	100%	99%
+Holme House	1,036	1,036	1,210	1,195	115%	100%
+Hull	552	552	762	755	137%	100%
+Humber	948	924	1,062	1,058	115%	97%
+Huntercombe	370	309	417	402	130%	84%
+Isis	478	478	622	615	129%	100%
+Isle of Wight	1,056	1,056	1,139	1,128	107%	100%
+Kennet	175	175	342	281	161%	100%
+Kirkham	634	634	634	625	99%	100%
+Kirklevington Grange	283	283	303	283	100%	100%
+Lancaster Farms	495	375	416	369	98%	76%
+Leeds	826	826	1,212	1,213	147%	100%
+Leicester	214	214	411	364	170%	100%
+Lewes	624	624	729	693	111%	100%
+Leyhill	527	527	527	506	96%	100%
+Lincoln	408	403	729	697	173%	99%
+Lindholme	1,048	924	1,010	998	108%	88%
+Littlehey	1,140	1,020	1,086	728	71%	89%
+Liverpool	1,173	1,159	1,442	1,246	108%	99%
+Long Lartin	629	622	622	596	96%	99%
+Low Newton	314	291	329	323	111%	93%
+Lowdham Grange	900	900	920	913	101%	100%
+Maidstone	565	565	600	588	104%	100%
+Manchester	965	965	1,286	1,151	119%	100%
+Moorland / Hatfield	1,209	1,209	1,272	1,255	104%	100%
+Mount	748	748	782	776	104%	100%
+New Hall	395	371	425	411	111%	94%
+North Sea Camp	420	420	420	379	90%	100%
+Northumberland	1,348	1,348	1,348	1,346	100%	100%
+Norwich	626	626	769	767	123%	100%
+Nottingham	723	723	1,100	1,097	152%	100%
+Oakwood	1,605	1,605	1,605	1,603	100%	100%
+Onley	742	682	682	679	100%	92%
+Parc	1,170	1,170	1,399	1,378	118%	100%
+Pentonville	915	915	1,310	1,321	144%	100%
+Peterborough (Male & Female)	840	827	1,008	965	117%	98%
+Portland	464	464	580	575	124%	100%
+Preston	456	434	800	714	165%	95%
+Ranby	893	892	1,098	1,088	122%	100%
+Risley	1,050	1,050	1,095	1,083	103%	100%
+Rochester	802	742	742	733	99%	93%
+Rye Hill	600	600	625	541	90%	100%
+Send	282	282	282	278	99%	100%
+Stafford	741	741	741	735	99%	100%
+Standford Hill (Sheppey)	464	464	464	442	95%	100%
+Stocken	768	768	843	838	109%	100%
+Stoke Heath	650	582	642	637	109%	90%
+Styal	454	445	460	440	99%	98%
+Sudbury	581	581	600	574	99%	100%
+Swaleside (Sheppey)	1,112	1,112	1,112	1,110	100%	100%
+Swansea	250	242	455	451	186%	97%
+Swinfen Hall	604	544	594	592	109%	90%
+Thameside	600	600	900	886	148%	100%
+
+Report Date:	27/06/2014	Page	3
+	Prison Name	Baseline 	In Use CNA	Operational 	Population *	% Pop to     In 	% Accommodation 
+	CNA	Capacity	Use CNA	Available
+Thorn Cross	331	331	331	325	98%	100%
+Usk / Prescoed	378	378	523	483	128%	100%
+Verne	570	294	294	239	81%	52%
+Wakefield	751	749	749	736	98%	100%
+Wandsworth	963	943	1,628	1,623	172%	98%
+Warren Hill	244	195	195	164	84%	80%
+Wayland	958	934	1,001	997	107%	97%
+Wealstun	810	785	807	799	102%	97%
+Werrington	160	160	160	107	67%	100%
+Wetherby	396	276	276	204	74%	70%
+Whatton	775	769	841	834	108%	99%
+Whitemoor	473	458	458	457	100%	97%
+Winchester	499	499	685	682	137%	100%
+Woodhill	660	660	819	810	123%	100%
+Wormwood Scrubs	1,170	1,170	1,279	1,258	108%	100%
+Wymott	1,102	1,038	1,111	1,100	106%	94%
+Sub total	77,473	75,054	87,526	84,684	113%	97%
+NOMS Operated Immigration Removal Centres (IRCs)
+Dover (IRC)	401	401	401	365	91%	100%
+Haslar (IRC)	170	170	170	163	96%	100%
+Morton Hall (IRC)	392	392	392	370	94%	100%
+Sub total	963	963	963	898	93%	100%
+Total	78,436	76,017	86,489	**	85,582	113%	97%
+Report produced by Population Strategy.
+
+The CNA and Operational Capacity figures are taken from the latest signed cell certificates held by PS.
+
+*The prison unlock figure may be lower than the 'Population', as the 'Population' includes prisoners on authorised absence.
+
+** Useable Operational Capacity of the estate is the sum of all establishments' operational capacity less 2000 places.
+
+The report is compiled from data on the last working Friday in June 2014
+
+.
+
+Report Date:	27/06/2014	Page	4
+Definitions of Accommodation Terms
+
+Certified Normal Accommodation (CNA)
+
+Certified Normal Accommodation (CNA), or uncrowded capacity, is the Prison Service's own measure of accommodation.  CNA 
+represents the good, decent standard of accommodation that the Service aspires to provide all prisoners.
+
+Baseline CNA
+
+Baseline CNA is the sum total of all certified accommodation in an establishment except, normally:
+  •Cells in punishment or segregation units.
+  •Healthcare cells or rooms in training prisons and YOIs that are not routinely used to accommodate long stay patients.
+
+In-Use CNA
+
+In-use CNA is baseline CNA less those places not available for immediate use, for example: damaged cells, cells affected by 
+building works.
+
+Operational Capacity
+
+The operational capacity of a prison is the total number of prisoners that an establishment can hold taking into account control, 
+security and the proper operation of the planned regime. It is determined by the Deputy Director of Custody on the basis of 
+operational judgement and experience.
+
+Useable Operational Capacity
+
+Useable Operational Capacity of the estate is the sum of all establishments' operational capacity less 2000 places. This is known 
+as the operating margin and reflects the constraints imposed by the need to provide separate accommodation for different 
+classes of prisoner i.e. by sex, age, security category, conviction status, single cell risk assessment and also due to 
+geographical distribution.
+
+Establishments Exceeding their Operational Capacity
+	Governing governors and Controllers and Directors of contracted out prisons must ensure that the approved operational 
+capacity is not normally exceeded other than on an exceptional basis to accommodate pressing operational need.
+
+
+
