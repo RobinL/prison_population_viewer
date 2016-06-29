@@ -68,14 +68,8 @@ var colours = ["#777", "#dc3912", "#ff9900", "#0E8917", "#990099", "#0099c6", "#
 
 
 
-// class Person {
-//     constructor(name) {
-//         this.name = name;
-//     }
-//     toString() {
-//         return `My name is ${ this.name }.`;
-//     }
-// }
+
+
 
 function DataHolder(column_descriptions_data, colour_options, points) {
 

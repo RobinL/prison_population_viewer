@@ -5,7 +5,7 @@ url = '';
 
 // These deferreds are used when we have a proper web server.
 var p1 = $.ajax("data/uk.json")
-var p2 = $.ajax("data/plot_data_all_months.csv")
+var p2 = $.ajax("data/final_full_time_series.csv")
 
 
 var p3 = jQuery.Deferred();
@@ -19,6 +19,12 @@ $.when(p1, p2, p3).done(function(uk_clip_data, csvdata, x) {
 
     var uk_clip_data = uk_clip_data[0]
     var points_data = d3.csv.parse(csvdata[0])
+
+    _.each(points_data, function(d) {
+        var this_date = d3.time.format("%Y-%m-%d").parse(d["date"])
+
+        d["month_text"] = d3.time.format("%B %Y")(this_date)
+    })
 
     data_holder = new DataHolder(column_descriptions_data, colour_options, points_data)
 
