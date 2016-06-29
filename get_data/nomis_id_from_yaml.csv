@@ -1,0 +1,132 @@
+estate,name,nomis_id
+Altcourse,Altcourse,ACI
+Askham Grange,Askham Grange,AGI
+Acklington,Acklington,AKI
+Isle of Wight - Albany,Isle of Wight - Albany,ALI
+Ashfield,Ashfield,ASI
+Aylesbury,Aylesbury,AYI
+Belmarsh,Belmarsh,BAI
+Buckley Hall,Buckley Hall,BCI
+Bedford,Bedford,BFI
+Blantyre House,Blantyre House,BHI
+Bristol,Bristol,BLI
+Birmingham,Birmingham,BMI
+Bullingdon,Bullingdon (Convicted Only),BNI
+Bullingdon,Bullingdon (Remand Only),BNI
+Bure,Bure,BRI
+Brinsford,Brinsford,BSI
+Brixton,Brixton,BXI
+Bronzefield,Bronzefield,BZI
+Chelmsford,Chelmsford,CDI
+Cardiff,Cardiff,CFI
+Cookham Wood,Cookham Wood,CKI
+Coldingley,Coldingley,CLI
+Channings Wood,Channings Wood,CWI
+Dartmoor,Dartmoor,DAI
+Drake Hall,Drake Hall,DHI
+Durham,Durham,DMI
+Doncaster,Doncaster,DNI
+Deerbolt,Deerbolt,DTI
+Downview,Downview,DWI
+Erlestoke,Erlestoke,EEI
+Standford Hill,Standford Hill,EHI
+East Sutton Park,East Sutton Park,ESI
+Everthorpe,Everthorpe,EVI
+Eastwood Park,Eastwood Park,EWI
+Exeter,Exeter,EXI
+Elmley,Elmley,EYI
+Forest Bank,Forest Bank,FBI
+Ford,Ford,FDI
+Foston Hall,Foston Hall,FHI
+Frankland,Frankland,FKI
+Feltham,Feltham (Young Adults 18-21 only),FMI
+Feltham,Feltham (Young People 15-18 only),FMI
+Full Sutton,Full Sutton,FNI
+Featherstone,Featherstone,FSI
+Garth,Garth,GHI
+Guys Marsh,Guys Marsh,GMI
+Grendon,Grendon,GNI
+Glen Parva,Glen Parva,GPI
+Gartree,Gartree,GTI
+Hollesley Bay Open,Hollesley Bay Open,HBI
+Huntercombe,Huntercombe,HCI
+Hatfield Open,Hatfield Lakes,HDI
+Hatfield Open,Hatfield Open,HDI
+Hewell,Hewell,HEI
+Holme House,Holme House,HHI
+Hindley,Hindley,HII
+Hull,Hull,HLI
+High Down,High Down,HOI
+Highpoint,Highpoint North,HPI
+Highpoint,Highpoint South,HPI
+Haverigg,Haverigg,HVI
+Holloway,Holloway,HYI
+Isis,Isis,ISI
+Isle of Wight - Parkhurst,Isle of Wight - Parkhurst,IWI
+Kirkham,Kirkham,KMI
+Kennet,Kennet,KTI
+Kirklevington Grange,Kirklevington Grange,KVI
+Leicester,Leicester,LCI
+Leeds,Leeds,LEI
+Lancaster Farms,Lancaster Farms,LFI
+Lowdham Grange,Lowdham Grange,LGI
+Lindholme,Lindholme,LHI
+Lincoln,Lincoln,LII
+Long Lartin,Long Lartin,LLI
+Low Newton,Low Newton,LNI
+Liverpool,Liverpool (Closed only),LPI
+Liverpool,Liverpool Social Visits,LPI
+Littlehey,Littlehey,LTI
+Lewes,Lewes,LWI
+Leyhill,Leyhill,LYI
+Moorland Closed,Moorland Closed,MDI
+Morton Hall,Morton Hall,MHI
+Manchester,Manchester,MRI
+Maidstone,Maidstone,MSI
+The Mount,The Mount,MTI
+New Hall,New Hall,NHI
+Northumberland,Northumberland,NLI
+Nottingham,Nottingham,NMI
+North Sea Camp,North Sea Camp,NSI
+Norwich,"Norwich (A, B, C, E, M only)",NWI
+Norwich,Norwich (Britannia House),NWI
+Norwich,"Norwich (F, G, H, L only)",NWI
+Onley,Onley,ONI
+Oakwood,Oakwood,OWI
+Peterborough,Peterborough,PBI
+Portland,Portland,PDI
+Preston,Preston,PNI
+Parc,Parc,PRI
+Pentonville,Pentonville,PVI
+Rochester,Rochester,RCI
+Rye Hill,Rye Hill,RHI
+Ranby,Ranby,RNI
+Risley,Risley,RSI
+Send,Send,SDI
+Stafford,Stafford,SFI
+Stoke Heath,Stoke Heath,SHI
+Stocken,Stocken,SKI
+Swaleside,Swaleside,SLI
+Swinfen Hall,Swinfen Hall,SNI
+Spring Hill,Spring Hill,SPI
+Styal,Styal,STI
+Sudbury,Sudbury,SUI
+Swansea,Swansea,SWI
+Thorn Cross,Thorn Cross,TCI
+Usk,Usk,UKI
+Prescoed,Prescoed,UPI
+Winchester,Winchester (Convicted only),WCI
+Winchester,Winchester (Remand only),WCI
+Wakefield,Wakefield,WDI
+Wealstun,Wealstun,WEI
+Woodhill,Woodhill,WHI
+Warren Hill,Warren Hill,WII
+Wayland,Wayland,WLI
+Wymott,Wymott,WMI
+Werrington,Werrington,WNI
+Wolds,Wolds,WOI
+Whitemoor,Whitemoor,WRI
+Wormwood Scrubs,Wormwood Scrubs,WSI
+Whatton,Whatton,WTI
+Wandsworth,Wandsworth,WWI
+Wetherby,Wetherby,WYI
