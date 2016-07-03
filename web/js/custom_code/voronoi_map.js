@@ -24,14 +24,20 @@ $.when(p1, p2, p3).done(function(uk_clip_data, csvdata, x) {
         var this_date = d3.time.format("%Y-%m-%d").parse(d["date"])
 
         d["month_text"] = d3.time.format("%B %Y")(this_date)
+        d["date"] = this_date
     })
 
     data_holder = new DataHolder(column_descriptions_data, colour_options, points_data)
 
     data_holder.process_column_descriptions()
     data_holder.numerical_to_float()
-    data_holder.set_domains()
+    data_holder.extract_totals()
     data_holder.filter_out_invalid_coordinates()
+    data_holder.set_domains()
+    
+   
+
+
 
     voronoi_map(map, uk_clip_data, data_holder)
 
@@ -117,6 +123,34 @@ function voronoi_map(map, uk_clip_data, data_holder) {
         var html = template(template_dict);
         d3.select('#selected')
             .html(html)
+
+        //Draw charts
+        data_holder.set_time_series(point.moj_prison_name)
+        holder = d3.select("#perc_pop_to_used_cna_holder")
+        chart = new TimeSeriesChart(holder, "perc_pop_to_used_cna", data_holder.time_series)
+
+        holder = d3.select("#perc_acc_available_holder")
+        chart = new TimeSeriesChart(holder, "perc_acc_available", data_holder.time_series)
+
+        holder = d3.select("#operational_capacity_holder")
+        chart = new TimeSeriesChart(holder, "operational_capacity", data_holder.time_series)
+
+        holder = d3.select("#population_holder")
+        chart = new TimeSeriesChart(holder, "population", data_holder.time_series)
+
+
+        data_holder.set_time_series("Total")
+        holder = d3.select("#total_population_holder")
+        chart = new TimeSeriesChart(holder, "population", data_holder.all_total_points)
+
+        d3.select("#total_population_holder .title").text("Total prison population")
+            .attr("font-weight", "bold")
+
+        
+        d3.select("#total_population_holder path.line")
+            .attr("stroke", "red")
+
+
     }
 
 
@@ -126,7 +160,7 @@ function voronoi_map(map, uk_clip_data, data_holder) {
         var scale = data_holder.column_descriptions_data[$("#keyOptions").val()]["colour_scale"]
 
         var key_position_top = 200;
-        var key_position_left = 70;
+        var key_position_left = 60;
         var key_height = 300;
 
         var bounds = map.getBounds(),
@@ -182,7 +216,7 @@ function voronoi_map(map, uk_clip_data, data_holder) {
     var draw_map_key_continuous = function() {
 
         var key_position_top = 200
-        var key_position_left = 70
+        var key_position_left = 60
         var key_height = 300
 
         var bounds = map.getBounds(),

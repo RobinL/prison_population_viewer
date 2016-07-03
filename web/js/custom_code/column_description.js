@@ -7,6 +7,7 @@ column_descriptions_data = {
     },
     "operational_capacity": {
         "long_name": "Operational capacity",
+        "format": d3.format(",.0f")
     },
     "population": {
         "long_name": "Population",
@@ -14,12 +15,12 @@ column_descriptions_data = {
     },
     "perc_pop_to_used_cna": {
         "long_name": "Ratio of population to in use CNA",
-        "format": d3.format(",.1%"),
+        "format": d3.format(",.0%"),
         "domain": [0.6,1,1.8]
     },
     "perc_acc_available": {
         "long_name": "Percentage of accomodation available",
-        "format": d3.format(",.1%"),
+        "format": d3.format(",.0%"),
     },
     "dt_youth" : {
         "long_name": "Youth or adult"
@@ -209,6 +210,8 @@ function DataHolder(column_descriptions_data, colour_options, points) {
         })
     }
 
+
+
     //  Get rid of rows which don't have lat lng
     this.filter_out_invalid_coordinates = function() {
         this.all_points = _.filter(this.all_points, function(d) {
@@ -224,6 +227,7 @@ function DataHolder(column_descriptions_data, colour_options, points) {
 
     this.set_domains = function() {
         var all_points = this.all_points
+      
 
         _.each(this.column_descriptions_data, function(d1, k1) {
 
@@ -318,4 +322,102 @@ function DataHolder(column_descriptions_data, colour_options, points) {
 
     }
 
+    this.set_time_series = function(prison_name) {
+
+        this.time_series = _.filter(this.all_points, function(d) {
+            return d.moj_prison_name == prison_name
+        })
+
+
+
+
+        }
+
+    this.extract_totals = function() {
+        this.all_total_points = this.all_points.slice()
+        this.all_total_points  = _.filter(this.all_total_points , function(d) {
+            return d["moj_prison_name"] == "Total"
+        })
+    }
+
 };
+
+function TimeSeriesChart(holder, series_name, data) {
+
+     // Need to get the x and y domains of the series
+     var y_data = _.map(data, function(d) {return d[series_name]})
+     var x_data = _.map(data, function(d) {return d["date"]})
+     ymax = _.max(y_data, function(d) {return d})
+     ymin = _.min(y_data, function(d) {return d})
+     ymax = ymax * 1.05
+     ymin = ymin*0.95
+
+     xmax = _.max(x_data, function(d) {return d})
+     xmin = _.min(x_data, function(d) {return d})
+
+
+    var margin = {top: 40, right: 20, bottom: 40, left: 40},
+    width = 350 - margin.left - margin.right,
+    height = 130 - margin.top - margin.bottom;
+
+    var formatDate = d3.time.format("%d-%b-%y");
+
+    var x = d3.time.scale()
+        .domain([xmin, xmax])
+        .range([0, width])
+        .nice();
+
+    var y = d3.scale.linear()
+        .domain([ymin, ymax])
+        .range([height, 0])
+        .nice();
+
+    var xAxis = d3.svg.axis()
+        .scale(x)
+        .orient("bottom")
+        .ticks(5)
+
+    var yAxis = d3.svg.axis()
+        .scale(y)
+        .orient("left")
+        .ticks(5)
+        .tickFormat(column_descriptions_data[series_name].format)
+
+    var line = d3.svg.line()
+        .x(function(d) { return x(d.date); })
+        .y(function(d) { return y(d[series_name]); });
+
+    var svg = holder.append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis);
+
+  svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxis)
+   
+
+  svg.append("path")
+      .datum(data)
+      .attr("class", "line")
+      .attr("d", line)
+      .attr("stroke", "steelblue")
+
+
+    svg.append("text")
+        .text(column_descriptions_data[series_name].long_name)
+        .attr("y", -10)
+        .attr("x", 50)
+        .attr("class", "title")
+
+    // Finally get the current selected month and plot a marker on the chart with the current data point
+
+
+
+}

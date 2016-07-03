@@ -115,10 +115,14 @@
     <script id="view_location_info" type="text/x-handlebars-template">
     <div class="entry">
       <div>
-        <h2>{{month_text}} - {{moj_prison_name}} - {{nomis_id}}</h2>
-        <h4>Population = {{population}}</h4>
-        <h4>Ratio of population to used CNA = {{perc_pop_to_used_cna}}</h4>
-        <h4>Percentage of population available = {{perc_acc_available}}</h4>
+        
+        <div id="total_population_holder" class="time_series_chart"></div>
+        <h2>Statistics for {{moj_prison_name}}</h2>
+        <div id="perc_pop_to_used_cna_holder" class="time_series_chart"></div>
+        <div id="perc_acc_available_holder" class="time_series_chart"></div>
+        <div id="operational_capacity_holder" class="time_series_chart"></div>
+        <div id="population_holder" class="time_series_chart"></div>
+
     
         
       </div>
