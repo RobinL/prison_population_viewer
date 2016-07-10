@@ -523,5 +523,28 @@ function TimeSeriesChart(holder, series_name, data) {
     // Finally get the current selected month and plot a marker on the chart with the current data point
 
 
+    var this_date_text = $("#filter_records_date_field").val();
+
+    this_date = d3.time.format("%B %Y").parse(this_date_text)
+    svg.append("line")
+        .attr("x1",x(this_date))
+        .attr("x2",x(this_date))
+        .attr("y1",height+5)
+        .attr("y2",0)
+        .style("stroke", "red")
+
+    var this_data = _.filter(data, function(d) {
+        return this_date_text == d.month_text
+    })
+    
+    var var_format = column_descriptions_data[series_name].format
+    svg.append("text")
+        .text(d3.time.format("%b %Y")(this_date) + ": " + var_format(this_data[0][series_name]))
+        .attr("y", height +30)
+        .attr("x", x(this_date))
+        .attr("text-anchor","middle")
+        .attr("fill", "red")
+
+
 
 }
