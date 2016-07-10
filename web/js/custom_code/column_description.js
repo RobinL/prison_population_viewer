@@ -1,9 +1,11 @@
-column_descriptions_data = {
+var column_descriptions_data = {
     "baseline_cna": {
         "long_name": "Baseline CNA",
+        "domain": [0, 500, 1500]
     },
     "in_use_cna": {
         "long_name": "In use CNA",
+        "domain": [0, 500, 1500]
     },
     "operational_capacity": {
         "long_name": "Operational capacity",
@@ -11,28 +13,73 @@ column_descriptions_data = {
     },
     "population": {
         "long_name": "Population",
-        "format": d3.format(",.0f")
+        "format": d3.format(",.0f"),
+        "domain": [0, 500, 1500]
     },
     "perc_pop_to_used_cna": {
         "long_name": "Ratio of population to in use CNA",
         "format": d3.format(",.0%"),
-        "domain": [0.6,1,1.8]
+        "domain": [0.6, 1, 1.8]
     },
     "perc_acc_available": {
         "long_name": "Percentage of accomodation available",
         "format": d3.format(",.0%"),
     },
-    "dt_youth" : {
+    "dt_youth": {
         "long_name": "Youth or adult"
     },
-     "dt_category" : {
+    "dt_category": {
         "long_name": "Prison category"
     },
-     "dt_region" : {
+    "dt_region": {
         "long_name": "Prison region"
     }
 
 }
+
+var filter_options = [{
+    "column": "none",
+    "text": "No filter"
+},
+{
+    "column": "cat_a",
+    "text": "Category A"
+}, {
+    "column": "cat_b",
+    "text": "Category B"
+}, {
+    "column": "cat_c",
+    "text": "Category C"
+}, {
+    "column": "cat_d",
+    "text": "Category D"
+}, {
+    "column": "open",
+    "text": "Open"
+}, {
+    "column": "male",
+    "text": "Male"
+}, {
+    "column": "youth",
+    "text": "Youth"
+}, {
+    "column": "adult",
+    "text": "Adult"
+}, {
+    "column": "local",
+    "text": "Local"
+}, {
+    "column": "high_security",
+    "text": "High security"
+}, {
+    "column": "sex_offender",
+    "text": "Sex offender"
+}, {
+    "column": "operator",
+    "text": "Operator"
+}];
+
+
 
 
 var colour_options = {
@@ -43,6 +90,14 @@ var colour_options = {
     "Greys": ["#D2EAEE", "#738F95", "#2B333C"],
     "Red and blue": ["#810303", "#542460", "#177CF7"],
 };
+
+
+
+
+
+
+
+
 
 
 // {
@@ -80,27 +135,55 @@ function DataHolder(column_descriptions_data, colour_options, points) {
 
     this.filter_points = function() {
         // Field to filter on
-        var filter_field = d3.select("#filter_records_field").node().value;
+        // var filter_field = d3.select("#filter_records_field").node().value;
 
-        // Filter regex
-        var filter_text = d3.select("#filter_records_text").node().value;
+        // // Filter regex
+        // var filter_text = d3.select("#filter_records_text").node().value;
 
-        this.points = _.filter(this.all_points, function(d) {
-            if (filter_field == "none") {
-                return true
+        // this.points = _.filter(this.all_points, function(d) {
+        //     if (filter_field == "none") {
+        //         return true
+        //     }
+
+        //     var re = new RegExp(filter_text, "i")
+
+        //     var match = re.test(d[filter_field])
+        //     return match
+        // })
+
+        var list_of_filters = []
+
+
+        var fieldsets = d3.select("#fieldsetholder").selectAll("fieldset").each(function(d) {
+
+            var column = d3.select(this).select(".filter_records_categorical_field")
+            column = $(column[0]).val();
+
+            var value = d3.select(this).select(".filter_records_categorical_value")
+            value = $(value[0]).val();
+
+            if (column != "none") {
+                list_of_filters.push({"column": column, "value":value})
             }
 
-            var re = new RegExp(filter_text, "i")
-
-            var match = re.test(d[filter_field])
-            return match
         })
+
+
+
 
         var selected_month = d3.select("#filter_records_date_field").node().value;
 
-        this.points = _.filter(this.points, function(d) {
-            return d["month_text"] == selected_month
+        list_of_filters.push({"column": "month_text", value: selected_month})
+
+        this.points = _.filter(this.all_points, function(d) {
+
+            return _.all(list_of_filters, function(this_filter){
+                return d[this_filter["column"]] == this_filter["value"]
+            })
+
         })
+
+        
 
     }
 
@@ -227,7 +310,7 @@ function DataHolder(column_descriptions_data, colour_options, points) {
 
     this.set_domains = function() {
         var all_points = this.all_points
-      
+
 
         _.each(this.column_descriptions_data, function(d1, k1) {
 
@@ -331,11 +414,11 @@ function DataHolder(column_descriptions_data, colour_options, points) {
 
 
 
-        }
+    }
 
     this.extract_totals = function() {
         this.all_total_points = this.all_points.slice()
-        this.all_total_points  = _.filter(this.all_total_points , function(d) {
+        this.all_total_points = _.filter(this.all_total_points, function(d) {
             return d["moj_prison_name"] == "Total"
         })
     }
@@ -344,21 +427,38 @@ function DataHolder(column_descriptions_data, colour_options, points) {
 
 function TimeSeriesChart(holder, series_name, data) {
 
-     // Need to get the x and y domains of the series
-     var y_data = _.map(data, function(d) {return d[series_name]})
-     var x_data = _.map(data, function(d) {return d["date"]})
-     ymax = _.max(y_data, function(d) {return d})
-     ymin = _.min(y_data, function(d) {return d})
-     ymax = ymax * 1.05
-     ymin = ymin*0.95
+    // Need to get the x and y domains of the series
+    var y_data = _.map(data, function(d) {
+        return d[series_name]
+    })
+    var x_data = _.map(data, function(d) {
+        return d["date"]
+    })
+    ymax = _.max(y_data, function(d) {
+        return d
+    })
+    ymin = _.min(y_data, function(d) {
+        return d
+    })
+    ymax = ymax * 1.05
+    ymin = ymin * 0.95
 
-     xmax = _.max(x_data, function(d) {return d})
-     xmin = _.min(x_data, function(d) {return d})
+    xmax = _.max(x_data, function(d) {
+        return d
+    })
+    xmin = _.min(x_data, function(d) {
+        return d
+    })
 
 
-    var margin = {top: 40, right: 20, bottom: 40, left: 40},
-    width = 350 - margin.left - margin.right,
-    height = 130 - margin.top - margin.bottom;
+    var margin = {
+            top: 40,
+            right: 20,
+            bottom: 40,
+            left: 40
+        },
+        width = 350 - margin.left - margin.right,
+        height = 130 - margin.top - margin.bottom;
 
     var formatDate = d3.time.format("%d-%b-%y");
 
@@ -384,30 +484,34 @@ function TimeSeriesChart(holder, series_name, data) {
         .tickFormat(column_descriptions_data[series_name].format)
 
     var line = d3.svg.line()
-        .x(function(d) { return x(d.date); })
-        .y(function(d) { return y(d[series_name]); });
+        .x(function(d) {
+            return x(d.date);
+        })
+        .y(function(d) {
+            return y(d[series_name]);
+        });
 
     var svg = holder.append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
     svg.append("g")
-      .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
-      .call(xAxis);
+        .attr("class", "x axis")
+        .attr("transform", "translate(0," + height + ")")
+        .call(xAxis);
 
-  svg.append("g")
-      .attr("class", "y axis")
-      .call(yAxis)
-   
+    svg.append("g")
+        .attr("class", "y axis")
+        .call(yAxis)
 
-  svg.append("path")
-      .datum(data)
-      .attr("class", "line")
-      .attr("d", line)
-      .attr("stroke", "steelblue")
+
+    svg.append("path")
+        .datum(data)
+        .attr("class", "line")
+        .attr("d", line)
+        .attr("stroke", "steelblue")
 
 
     svg.append("text")

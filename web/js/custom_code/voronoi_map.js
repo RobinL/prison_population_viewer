@@ -34,10 +34,6 @@ $.when(p1, p2, p3).done(function(uk_clip_data, csvdata, x) {
     data_holder.extract_totals()
     data_holder.filter_out_invalid_coordinates()
     data_holder.set_domains()
-    
-   
-
-
 
     voronoi_map(map, uk_clip_data, data_holder)
 
@@ -47,7 +43,7 @@ $.when(p1, p2, p3).done(function(uk_clip_data, csvdata, x) {
         var months = data_holder.column_descriptions_data["month_text"]["domain"];
 
         var current_index = months.indexOf(current)
-        var new_index = Math.min(current_index+1, months.length-1)
+        var new_index = Math.min(current_index + 1, months.length - 1)
         var new_month = months[new_index]
 
         $("#filter_records_date_field").val(new_month).change();
@@ -60,7 +56,7 @@ $.when(p1, p2, p3).done(function(uk_clip_data, csvdata, x) {
         var months = data_holder.column_descriptions_data["month_text"]["domain"];
 
         var current_index = months.indexOf(current)
-        var new_index = Math.max(current_index-1, 0)
+        var new_index = Math.max(current_index - 1, 0)
         var new_month = months[new_index]
 
         $("#filter_records_date_field").val(new_month).change();
@@ -146,7 +142,7 @@ function voronoi_map(map, uk_clip_data, data_holder) {
         d3.select("#total_population_holder .title").text("Total prison population")
             .attr("font-weight", "bold")
 
-        
+
         d3.select("#total_population_holder path.line")
             .attr("stroke", "red")
 
@@ -306,6 +302,99 @@ function voronoi_map(map, uk_clip_data, data_holder) {
         return list
     }
 
+    function remove_fieldset(fs_num) {
+        d3.select("[fs_num='" + fs_num + "']").remove()
+        drawWithLoading()
+
+    }
+
+    function add_fieldset() {
+
+        //Data should be the existing list of fieldsets.
+        var bounddata = d3.select("#fieldsetholder").selectAll("fieldset").data();
+
+        var new_num = Math.max(bounddata) + 1
+        bounddata.push(new_num)
+
+
+        var num_fieldsets = d3.select("#fieldsetholder").selectAll("fieldset")[0].length;
+        var data = d3.range(num_fieldsets + 1)
+
+        var fieldsets_enter = d3.select("#fieldsetholder").selectAll("fieldset").data(data).enter()
+            .append("fieldset")
+            .attr("fs_num", function(d) {
+                return d;
+            });
+
+        fieldssets_select = fieldsets_enter.append("select")
+            .attr("name", "filter_records_field")
+            .attr("class", "filter_records_categorical_field")
+            .on("change", function() {
+                // Get fs_num, look up in data and enter options into second field
+                var fs_num = d3.select(this.parentNode).attr("fs_num")
+
+                var this_col = $(this).val()
+
+                //Now need to populate second list box with correct values 
+                var unique_values = _.unique(_.map(data_holder.all_points, function(d) {
+                    return d[this_col]
+                }))
+
+                var option_values_select_box = d3.select("[fs_num='" + fs_num + "']").select(".filter_records_categorical_value");
+
+
+                var option_selections = option_values_select_box.selectAll("option")
+                    .data(unique_values)
+
+
+                option_selections.enter().append("option")
+                    .attr("value", function(d) {
+                        return d
+                    })
+                    .text(function(d) {
+                        return d
+                    })
+
+                option_selections
+                    .attr("value", function(d) {
+                        return d
+                    })
+                    .text(function(d) {
+                        return d
+                    })
+
+                option_selections.exit().remove()
+
+                drawWithLoading()
+
+            })
+
+        fieldssets_select.selectAll("select")
+            .data(filter_options)
+            .enter()
+            .append("option")
+            .attr("value", function(d) {
+                return d["column"]
+            })
+            .text(function(d) {
+                return d["text"]
+            })
+
+
+        fieldsets_enter.append("select")
+            .attr("name", "filter_records_field")
+            .attr("class", "filter_records_categorical_value")
+            .on("change", function() {
+                drawWithLoading()
+            })
+
+        fieldsets_enter.append("button").text("-")
+            .on("click", function() {
+                var fs_num = d3.select(this.parentNode).attr("fs_num")
+                remove_fieldset(fs_num)
+            })
+
+    }
 
     var drawMetricSelection = function() {
 
@@ -322,7 +411,7 @@ function voronoi_map(map, uk_clip_data, data_holder) {
                 })
 
             d3.select(selector).on("change", function(d) {
-                
+
                 $("#keyOptions").val(this.value)
 
                 drawWithLoading()
@@ -359,6 +448,10 @@ function voronoi_map(map, uk_clip_data, data_holder) {
                 return d
             })
 
+        add_fieldset()
+        d3.select("#new_fieldset_button").on("click", function() {
+            add_fieldset();
+        })
 
         $("#filter_records_field").val("none");
         d3.select("#filter_records_field").on("change", function(d) {
@@ -376,7 +469,7 @@ function voronoi_map(map, uk_clip_data, data_holder) {
         $("#shadingOptions").val(listOfMetrics[0]);
         $("#keyOptions").val(listOfMetrics[0]);
         var mylen = data_holder.column_descriptions_data["month_text"]["domain"].length
-        var new_month = data_holder.column_descriptions_data["month_text"]["domain"][mylen-1]
+        var new_month = data_holder.column_descriptions_data["month_text"]["domain"][mylen - 1]
         $("#filter_records_date_field").val(new_month)
 
     }
