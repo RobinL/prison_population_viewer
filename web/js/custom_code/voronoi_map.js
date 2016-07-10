@@ -466,8 +466,8 @@ function voronoi_map(map, uk_clip_data, data_holder) {
         })
 
         // First option
-        $("#shadingOptions").val(listOfMetrics[0]);
-        $("#keyOptions").val(listOfMetrics[0]);
+        $("#shadingOptions").val(listOfMetrics[3]);
+        $("#keyOptions").val(listOfMetrics[3]);
         var mylen = data_holder.column_descriptions_data["month_text"]["domain"].length
         var new_month = data_holder.column_descriptions_data["month_text"]["domain"][mylen - 1]
         $("#filter_records_date_field").val(new_month)
